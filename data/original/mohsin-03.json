@@ -1,0 +1,879 @@
+{
+  "schema_version": "3.1-evidence-deduplicated",
+  "writer": "Mohsin",
+  "writer_assignment_source": "user assignment; public byline is separate from internal writer attribution",
+  "article_number": 3,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+    "title": "Personalized Gift Tags: 15 Ideas for Every Occasion (Plus How to Order Custom Ones)",
+    "primary_keyword": "personalized gift tags ideas",
+    "content_type": "Informational/commerce",
+    "audience": "US B2B packaging/printing buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5 independently assigned; evidence-informed editorial calibration, NOT derived from failed checklist counts",
+    "duplication_policy": "Each distinct issue assigned one ID; related diagnostic questions do not create duplicate penalties",
+    "unverified_policy": "no failure assigned for unresolved click destination, external copying, sitewide opportunity validation"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-2": {
+        "status": "pass",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Introduction promises fifteen ideas and explains custom ordering.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-4": {
+        "status": "fail",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "MH03-007: Intro and benefits repeatedly equate tags with luxury, loyalty, and memorability without new support.",
+        "related_issue_ids": [
+          "MH03-007"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-0": {
+        "status": "pass",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "No independent additional technical defect established for this narrowly framed check beyond separately flagged findings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-1": {
+        "status": "fail",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH03-008: Gloss coating can improve resistance but depends on stock/coating/laminate, and should not be guaranteed.",
+        "related_issue_ids": [
+          "MH03-008"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH03-001: Printing runs have tolerances; color, registration, trimming and finish can vary.; MH03-004: Unit price often falls with quantity but not universally; no price break assumptions are shown.; MH03-006: Depends on printer, stock, ink cure and cutting method; comparison is too sweeping.",
+        "related_issue_ids": [
+          "MH03-001",
+          "MH03-004",
+          "MH03-006"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH03-001: Printing runs have tolerances; color, registration, trimming and finish can vary.; MH03-006: Depends on printer, stock, ink cure and cutting method; comparison is too sweeping.",
+        "related_issue_ids": [
+          "MH03-001",
+          "MH03-006"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-4": {
+        "status": "pass",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "No independent additional technical defect established for this narrowly framed check beyond separately flagged findings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "No independent additional technical defect established for this narrowly framed check beyond separately flagged findings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-0": {
+        "status": "pass",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Lists seven seasonal and eight other occasion ideas.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-1": {
+        "status": "pass",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-2": {
+        "status": "pass",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-3": {
+        "status": "pass",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-5": {
+        "status": "fail",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH03-007: Intro and benefits repeatedly equate tags with luxury, loyalty, and memorability without new support.",
+        "related_issue_ids": [
+          "MH03-007"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Contains relevant examples or action context; substantive defects separately linked to issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-1": {
+        "status": "fail",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH03-009: Creative examples plentiful but no ready-use size, lead-time, quotation or production example for a shop.",
+        "related_issue_ids": [
+          "MH03-009"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-2": {
+        "status": "fail",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH03-005: No specific GSM, hole placement/diameter, eyelet, string, bleed, artwork file/preflight, or tolerance requirements.",
+        "related_issue_ids": [
+          "MH03-005"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-3": {
+        "status": "pass",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "Contains relevant examples or action context; substantive defects separately linked to issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH03-005: No specific GSM, hole placement/diameter, eyelet, string, bleed, artwork file/preflight, or tolerance requirements.; MH03-009: Creative examples plentiful but no ready-use size, lead-time, quotation or production example for a shop.",
+        "related_issue_ids": [
+          "MH03-005",
+          "MH03-009"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-5": {
+        "status": "not_verified",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "This criterion includes external plagiarism detection; no corpus-wide similarity analysis was conducted. Internal repetition is documented in other questions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-0": {
+        "status": "pass",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-3": {
+        "status": "fail",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "MH03-007: Intro and benefits repeatedly equate tags with luxury, loyalty, and memorability without new support.",
+        "related_issue_ids": [
+          "MH03-007"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Uses numbered design list and DIY-versus-custom comparison table.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-5": {
+        "status": "pass",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Primary phrase and variants appear in title, H2 and explanatory passages.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-3": {
+        "status": "fail",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "MH03-003: Nearby list entries repeatedly force variations such as Christmas personalized-themed gift tags, distracting from natural US phrasing.",
+        "related_issue_ids": [
+          "MH03-003"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-0": {
+        "status": "pass",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Explicitly addresses small business and retail use.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH03-005: No specific GSM, hole placement/diameter, eyelet, string, bleed, artwork file/preflight, or tolerance requirements.",
+        "related_issue_ids": [
+          "MH03-005"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-2": {
+        "status": "fail",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH03-004: Unit price often falls with quantity but not universally; no price break assumptions are shown.; MH03-005: No specific GSM, hole placement/diameter, eyelet, string, bleed, artwork file/preflight, or tolerance requirements.",
+        "related_issue_ids": [
+          "MH03-004",
+          "MH03-005"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH03-005: No specific GSM, hole placement/diameter, eyelet, string, bleed, artwork file/preflight, or tolerance requirements.; MH03-009: Creative examples plentiful but no ready-use size, lead-time, quotation or production example for a shop.",
+        "related_issue_ids": [
+          "MH03-005",
+          "MH03-009"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Links to custom labels, packaging tags and Christmas labels.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Destinations not individually HTTP-tested; visible anchors alone do not prove destination correctness.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-4": {
+        "status": "not_verified",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Sitewide internal-link opportunity gap cannot be concluded without a full relevant destination inventory.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH03-002: Missing possessive and grammatical structure.",
+        "related_issue_ids": [
+          "MH03-002"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "No separately demonstrated failure of this specific language check; see documented editorial issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH03-002: Missing possessive and grammatical structure.; MH03-003: Nearby list entries repeatedly force variations such as Christmas personalized-themed gift tags, distracting from natural US phrasing.",
+        "related_issue_ids": [
+          "MH03-002",
+          "MH03-003"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-3": {
+        "status": "fail",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH03-003: Nearby list entries repeatedly force variations such as Christmas personalized-themed gift tags, distracting from natural US phrasing.",
+        "related_issue_ids": [
+          "MH03-003"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH03-003: Nearby list entries repeatedly force variations such as Christmas personalized-themed gift tags, distracting from natural US phrasing.; MH03-007: Intro and benefits repeatedly equate tags with luxury, loyalty, and memorability without new support.",
+        "related_issue_ids": [
+          "MH03-003",
+          "MH03-007"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH03-001: Printing runs have tolerances; color, registration, trimming and finish can vary.; MH03-004: Unit price often falls with quantity but not universally; no price break assumptions are shown.; MH03-006: Depends on printer, stock, ink cure and cutting method; comparison is too sweeping.; MH03-008: Gloss coating can improve resistance but depends on stock/coating/laminate, and should not be guaranteed.",
+        "related_issue_ids": [
+          "MH03-001",
+          "MH03-004",
+          "MH03-006",
+          "MH03-008"
+        ],
+        "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      }
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "MH03-001",
+      "title": "Unsupported print perfection guarantee",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "DIY vs Custom Ordered",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "every single tag will look identical and perfect.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-001.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Printing runs have tolerances; color, registration, trimming and finish can vary.",
+      "recommended_action": "Replace perfect guarantee with documented tolerance, proof and QC process.",
+      "verification_status": "verified absolute claim",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-002",
+      "title": "Grammar error in idea number nine",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "15 Ideas: Everyday",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Make sure the birthday person new age is highlighted",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-002.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Missing possessive and grammatical structure.",
+      "recommended_action": "Rewrite as Highlight the recipient’s new age in bold colors.",
+      "verification_status": "verified grammar",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-003",
+      "title": "Nonidiomatic keyword constructions",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-2",
+        "8-3",
+        "8-4",
+        "5-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "15 Ideas: Holiday",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "a personalized Christmas gift tag featuring the recipient's name next to a cute reindeer.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-003.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Nearby list entries repeatedly force variations such as Christmas personalized-themed gift tags, distracting from natural US phrasing.",
+      "recommended_action": "Prioritize reader-natural language over keyword insertion; edit whole list.",
+      "verification_status": "editorial observation",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-004",
+      "title": "Claims about bulk ordering are unconditional",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "8-5",
+        "6-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "How to Order",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Buying custom gift tags in bulk always lowers the price per piece.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-004.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Unit price often falls with quantity but not universally; no price break assumptions are shown.",
+      "recommended_action": "Say often; recommend quotation at 2–3 quantity tiers and consider stock waste.",
+      "verification_status": "absolute claim unsupported",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-005",
+      "title": "Gift tag procurement specifications incomplete",
+      "severity": "major",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "3-2",
+        "3-4",
+        "6-1",
+        "6-2",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "How to Order",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "First, decide on the size and shape.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-005.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "No specific GSM, hole placement/diameter, eyelet, string, bleed, artwork file/preflight, or tolerance requirements.",
+      "recommended_action": "Add practical order-ready checklist and one detailed retail example.",
+      "verification_status": "verified gap",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-006",
+      "title": "Generalized home-print quality claim",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "DIY vs Custom Ordered",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "home printers often smear ink and scissors leave uneven edges.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-006.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Depends on printer, stock, ink cure and cutting method; comparison is too sweeping.",
+      "recommended_action": "Contrast production tolerances and available finishing options, qualified by equipment.",
+      "verification_status": "unqualified comparison",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-007",
+      "title": "Repetitive emotional branding statements",
+      "severity": "moderate",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "0-4",
+        "2-5",
+        "4-3",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Intro and Why Tags Matter",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "This turns a simple bar of soap into a luxury retail experience.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-007.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Intro and benefits repeatedly equate tags with luxury, loyalty, and memorability without new support.",
+      "recommended_action": "Shorten benefits and add specific use-case instructions under ideas.",
+      "verification_status": "editorial analysis",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-008",
+      "title": "Overgeneralized finish performance",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Glossy Finish",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "It protects the tag from light moisture and scratches.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-008.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Gloss coating can improve resistance but depends on stock/coating/laminate, and should not be guaranteed.",
+      "recommended_action": "Qualify resistance and specify protective laminate when needed.",
+      "verification_status": "technical qualification",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH03-009",
+      "title": "Missing measurable examples for B2B application",
+      "severity": "moderate",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "3-1",
+        "3-4",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "How to Order",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "A standard rectangle works great, but circle shapes stand out nicely.",
+          "source_url": "https://print247.us/post/personalized-gift-tags-ideas-for-every-occasion",
+          "web_reference": "turn601257view2",
+          "visual_evidence": "evidence_images/MH03-009.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Creative examples plentiful but no ready-use size, lead-time, quotation or production example for a shop.",
+      "recommended_action": "Provide a complete gift-tag specification for small retail order and seasonal replenishment.",
+      "verification_status": "content gap",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    }
+  ],
+  "unique_confirmed_or_evidence_based_issue_count": 9,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 4,
+      "weight_percent": 15,
+      "weighted_points": 12.0,
+      "rationale": "Promises and delivers 15 numbered ideas"
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Print perfection and cost claims poorly substantiated"
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 3,
+      "weight_percent": 20,
+      "weighted_points": 12.0,
+      "rationale": "Broad creative ideation; modest specification depth"
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Ordering advice lacks tolerances/artwork details"
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Clear list and comparison"
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Suitable relevant variations"
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "SMB use cases but broad consumer blend"
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Typos and forced phrases"
+    }
+  },
+  "weighted_article_score": 64.0,
+  "score_status": "provisional_editorial_ratings_require_second_reviewer_calibration",
+  "executive_summary": {
+    "strengths": "Delivers a numbered list of 15 designs, separates holiday and everyday uses, and offers DIY versus professional ordering comparison.",
+    "critical_findings": "Several awkward phrases and typos, overly assured print consistency and cost claims, scant specifications for artwork and holes/string/finishing.",
+    "recommended_corrections": "Correct editorial errors; qualify manufacturer outcomes and bulk-price claims; add stock weight, hole diameter/location, string, dieline, print bleed and proofing guidance."
+  },
+  "source_verification": {
+    "published_article_text_reviewed": true,
+    "article_source_reference": "turn601257view2",
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated verbatim text excerpts; not rendered website captures",
+    "link_destination_HTTP_checks_completed": false,
+    "independent_external_specification_validation_complete": false
+  },
+  "caveats": [
+    "Scores are holistic and not percentages of failed checklist items.",
+    "Technical claims require specialist confirmation before treating all as definitive regulatory findings.",
+    "Internal writer assignment is not verified by the public author byline."
+  ]
+}

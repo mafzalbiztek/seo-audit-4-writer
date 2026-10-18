@@ -1,0 +1,879 @@
+{
+  "schema_version": "3.0-full-editorial-reaudit",
+  "writer": "Fizza",
+  "writer_assignment_source": "user internal assignment; live author byline differs",
+  "article_number": 4,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/different-types-of-invitation-cards",
+    "title": "What Are the Different Types of Invitation Cards?",
+    "primary_keyword": "types of invitation cards",
+    "content_type": "Informational",
+    "audience": "US B2B print and packaging buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5, independently assigned per dimension from overall evidence; NOT mechanically counted from checklist failures",
+    "duplication_policy": "one issue ID counted once regardless of related checklist IDs",
+    "link_status_not_verified": "No automated HTTP link-check performed"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Title promises types of invitation cards; flat, folded, pocket and all-in-one formats are listed.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Title promises types of invitation cards; flat, folded, pocket and all-in-one formats are listed.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "0-2": {
+        "status": "fail",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Repeated emotional introductions: Similar sentiment about guests feeling valued is repeated before the types are introduced.",
+        "related_issue_ids": [
+          "FZ04-007"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Title promises types of invitation cards; flat, folded, pocket and all-in-one formats are listed.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "0-4": {
+        "status": "fail",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Off-topic greeting-card market statistic: Greeting-card market size is not directly evidence of invitation-card demand or useful for selecting formats.",
+        "related_issue_ids": [
+          "FZ04-006"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Title promises types of invitation cards; flat, folded, pocket and all-in-one formats are listed.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "1-0": {
+        "status": "fail",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Folded cards described as generally having pockets: An interior pocket is a feature of some designs, not folded invitations as a general category.",
+        "related_issue_ids": [
+          "FZ04-003"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-1": {
+        "status": "pass",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Descriptions of basic flat, folded and pocket formats generally align with their physical form.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Unsupported popularity claim: No supporting source or methodology is provided for the nationwide preference claim.",
+        "related_issue_ids": [
+          "FZ04-005"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Folded cards described as generally having pockets: An interior pocket is a feature of some designs, not folded invitations as a general category.",
+        "related_issue_ids": [
+          "FZ04-003"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-4": {
+        "status": "pass",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Descriptions of basic flat, folded and pocket formats generally align with their physical form.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Descriptions of basic flat, folded and pocket formats generally align with their physical form.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-0": {
+        "status": "fail",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "RSVP card conflated with invitation format: An RSVP response card is typically an accessory/enclosure rather than a primary invitation format.",
+        "related_issue_ids": [
+          "FZ04-004"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "2-1": {
+        "status": "pass",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Format types, common occasions, size table, selection factors and FAQs included.",
+        "related_issue_ids": [
+          "FZ04-004"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "2-2": {
+        "status": "pass",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Format types, common occasions, size table, selection factors and FAQs included.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-3": {
+        "status": "pass",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Format types, common occasions, size table, selection factors and FAQs included.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Format types, common occasions, size table, selection factors and FAQs included.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-5": {
+        "status": "fail",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Repeated emotional introductions: Similar sentiment about guests feeling valued is repeated before the types are introduced.",
+        "related_issue_ids": [
+          "FZ04-007"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Comparison table supports format-by-event selection; sizes A2 and A7 stated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-1": {
+        "status": "pass",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "Comparison table supports format-by-event selection; sizes A2 and A7 stated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-2": {
+        "status": "pass",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "Comparison table supports format-by-event selection; sizes A2 and A7 stated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-3": {
+        "status": "pass",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "Comparison table supports format-by-event selection; sizes A2 and A7 stated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Direct article review: substantive weakness in the content offers insights relevant to real packaging purchasing decisions. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-5": {
+        "status": "fail",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "Direct article review: substantive weakness in there is no evident substantial duplication or unattributed copying. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-0": {
+        "status": "fail",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Off-topic greeting-card market statistic: Greeting-card market size is not directly evidence of invitation-card demand or useful for selecting formats.",
+        "related_issue_ids": [
+          "FZ04-006"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Main type section uses numbered subheadings; separate size and selection sections.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Main type section uses numbered subheadings; separate size and selection sections.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-3": {
+        "status": "fail",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "Direct article review: substantive weakness in the article progresses logically without unnecessary repetition. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Main type section uses numbered subheadings; separate size and selection sections.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-5": {
+        "status": "pass",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Main type section uses numbered subheadings; separate size and selection sections.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Primary topic and natural variations such as flat and folded cards used.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Primary topic and natural variations such as flat and folded cards used.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Primary topic and natural variations such as flat and folded cards used.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-3": {
+        "status": "pass",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "Primary topic and natural variations such as flat and folded cards used.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Primary topic and natural variations such as flat and folded cards used.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-0": {
+        "status": "fail",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Limited B2B ordering detail: The guide covers occasions and formats but gives little practical advice on proofing, quantity, stock basis, production lead time and mailing constraints.",
+        "related_issue_ids": [
+          "FZ04-008"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Limited B2B ordering detail: The guide covers occasions and formats but gives little practical advice on proofing, quantity, stock basis, production lead time and mailing constraints.",
+        "related_issue_ids": [
+          "FZ04-008"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "6-2": {
+        "status": "fail",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Direct article review: substantive weakness in relevant considerations such as moq, customization, materials, printing, or lead times are explained where appropriate. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Direct article review: substantive weakness in the content supports an informed product or packaging decision. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Print247 custom invitation CTA and paper/finish selection references.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Print247 custom invitation CTA and paper/finish selection references.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Invitation-card, folded-card and cardstock contextual links appear.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Invitation-card, folded-card and cardstock contextual links appear.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Invitation-card, folded-card and cardstock contextual links appear.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Contextual target pages exist as links in article, but final HTTP status, redirect chain and content after navigation were not independently verified.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-4": {
+        "status": "pass",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Invitation-card, folded-card and cardstock contextual links appear.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Incorrect grammar in main heading: Plural subject requires matter; question phrasing is also awkward.",
+        "related_issue_ids": [
+          "FZ04-001"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "US invitation sizes in inches; spelling generally American.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Incorrect grammar in main heading: Plural subject requires matter; question phrasing is also awkward.",
+        "related_issue_ids": [
+          "FZ04-001"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-3": {
+        "status": "fail",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Direct article review: substantive weakness in terminology and brand voice remain consistent. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Repeated emotional introductions: Similar sentiment about guests feeling valued is repeated before the types are introduced.",
+        "related_issue_ids": [
+          "FZ04-007"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Unsupported popularity claim: No supporting source or methodology is provided for the nationwide preference claim.",
+        "related_issue_ids": [
+          "FZ04-005"
+        ],
+        "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      }
+    },
+    "counts": {
+      "pass": 31,
+      "fail": 20,
+      "not_verified": 1
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "FZ04-001",
+      "title": "Incorrect grammar in main heading",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Why Invitation Cards Matters?",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "234-237",
+          "visual_evidence": "evidence_images/FZ04-001.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Plural subject requires matter; question phrasing is also awkward.",
+      "recommended_action": "Use Why Do Invitation Cards Matter?",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ04-002",
+      "title": "Clarify A-series envelope labels and sizing context",
+      "severity": "minor",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "2-1"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "select a 4 x 6 inches card to pair ideally with an A4 envelope",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "323-327",
+          "visual_evidence": "evidence_images/FZ04-002.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "An American A4 envelope commonly accommodates a 4×6-inch card; the published pairing is not proven wrong. Different A-series conventions (US envelopes versus international paper formats) warrant clarification.",
+      "recommended_action": "Explain the US A4 envelope dimensions when discussing 4×6 card fit. Do not identify this as an incorrect pairing without evidence.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "clarification_only_not_confirmed_error",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ04-003",
+      "title": "Folded cards described as generally having pockets",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "This type of invitation card also features inner pockets to hold separate RSVP cards.",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "265-271",
+          "visual_evidence": "evidence_images/FZ04-003.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "An interior pocket is a feature of some designs, not folded invitations as a general category.",
+      "recommended_action": "Qualify as optional pocket-equipped folded formats.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ04-004",
+      "title": "RSVP card conflated with invitation format",
+      "severity": "moderate",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "2-0",
+        "2-1"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "### 5. RSVP Cards",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "275-279",
+          "visual_evidence": "evidence_images/FZ04-004.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "An RSVP response card is typically an accessory/enclosure rather than a primary invitation format.",
+      "recommended_action": "Separate main invitation formats from inserts and response cards.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ04-005",
+      "title": "Unsupported popularity claim",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Folded invitation cards are the most preferred choice in the USA.",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "265-267",
+          "visual_evidence": "evidence_images/FZ04-005.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "No supporting source or methodology is provided for the nationwide preference claim.",
+      "recommended_action": "Remove superlative or support with reliable market evidence.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ04-006",
+      "title": "Off-topic greeting-card market statistic",
+      "severity": "minor",
+      "primary_dimension": "topic_search_intent",
+      "related_question_ids": [
+        "0-4",
+        "4-0"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "U.S greeting card market size",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "248-253",
+          "visual_evidence": "evidence_images/FZ04-006.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Greeting-card market size is not directly evidence of invitation-card demand or useful for selecting formats.",
+      "recommended_action": "Remove or replace with relevant printing/format evidence.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ04-007",
+      "title": "Repeated emotional introductions",
+      "severity": "moderate",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "0-2",
+        "2-5",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "receiving an invitation card makes people feel valued",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "230-259",
+          "visual_evidence": "evidence_images/FZ04-007.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Similar sentiment about guests feeling valued is repeated before the types are introduced.",
+      "recommended_action": "Shorten the opening and lead with format taxonomy and decision factors.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ04-008",
+      "title": "Limited B2B ordering detail",
+      "severity": "moderate",
+      "primary_dimension": "b2b_commercial_relevance",
+      "related_question_ids": [
+        "6-0",
+        "6-1"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Choose the material and finish",
+          "source_url": "https://print247.us/post/different-types-of-invitation-cards",
+          "web_reference": "turn750473view3",
+          "line_ranges": "300-318",
+          "visual_evidence": "evidence_images/FZ04-008.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The guide covers occasions and formats but gives little practical advice on proofing, quantity, stock basis, production lead time and mailing constraints.",
+      "recommended_action": "Add a concise print-buyer specification and ordering checklist.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    }
+  ],
+  "unique_confirmed_or_evidence_based_issue_count": 7,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Core list of types present, initial explanation verbose."
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "No demonstrated 4×6/A4 fit error; other broad claims and type distinctions need qualification."
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 3,
+      "weight_percent": 20,
+      "weighted_points": 12.0,
+      "rationale": "Useful taxonomy but RSVP enclosure mixed with formats."
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Tables help basic selection; missing detailed specs and realistic production instructions."
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Organized list and tables; verbose opening and repetitive tone."
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Topic and variants integrated."
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 2,
+      "weight_percent": 10,
+      "weighted_points": 4.0,
+      "rationale": "Little bulk/custom-print buyer detail."
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Clear grammar and awkward heading errors."
+    }
+  },
+  "weighted_article_score": 59.0,
+  "score_status": "expert_judgment_scored_subject_to_editorial_calibration",
+  "executive_summary": {
+    "strengths": "Presents a useful invitation format taxonomy, event-based examples, a size table and selection considerations for paper, finish, budget and postage.",
+    "critical_findings": "Incorrect grammar in main heading; Envelope size pairing likely incorrect; Folded cards described as generally having pockets; RSVP card conflated with invitation format; Unsupported popularity claim.",
+    "recommended_corrections": "Use Why Do Invitation Cards Matter?; Verify envelope manufacturer specifications and clarify A4 envelope versus A4 paper sizing.; Qualify as optional pocket-equipped folded formats.; Separate main invitation formats from inserts and response cards.; Remove superlative or support with reliable market evidence.."
+  },
+  "source_verification": {
+    "published_article_text_read": true,
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated published-text excerpts, NOT captured website screenshots",
+    "external_specification_independently_verified_for_every_claim": false
+  },
+  "caveats": [
+    "Wording, contradictions and structural issues were checked against published article text; some industry claims require authoritative vendor-specific validation.",
+    "A score is an editor-calibrated rating, not a mathematically objective measure and must not be used alone for HR decisions.",
+    "Published attribution Bill Hogg Ryan differs from internally assigned writer Fizza; verify provenance if needed."
+  ]
+}

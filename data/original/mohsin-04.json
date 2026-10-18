@@ -1,0 +1,905 @@
+{
+  "schema_version": "3.1-evidence-deduplicated",
+  "writer": "Mohsin",
+  "writer_assignment_source": "user assignment; public byline is separate from internal writer attribution",
+  "article_number": 4,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+    "title": "Address Labels Explained: Types, Sizes & Printing",
+    "primary_keyword": "address labels types sizes materials",
+    "content_type": "Informational B2B",
+    "audience": "US B2B packaging/printing buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5 independently assigned; evidence-informed editorial calibration, NOT derived from failed checklist counts",
+    "duplication_policy": "Each distinct issue assigned one ID; related diagnostic questions do not create duplicate penalties",
+    "unverified_policy": "no failure assigned for unresolved click destination, external copying, sitewide opportunity validation"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-2": {
+        "status": "pass",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Intro previews types, sizes, materials and printing methods.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-4": {
+        "status": "pass",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-0": {
+        "status": "fail",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH04-002: Roll labels and sheet labels are separate feed formats; sentence blends them.; MH04-005: Direct thermal and thermal transfer have different consumables/durability and ribbon options.",
+        "related_issue_ids": [
+          "MH04-002",
+          "MH04-005"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-1": {
+        "status": "fail",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH04-004: Moisture performance varies by toner adhesion, label substrate, printer and exposure.; MH04-006: 4x6 is common for shipping labels, but service-specific templates and printer sizes differ.",
+        "related_issue_ids": [
+          "MH04-004",
+          "MH04-006"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH04-009: No cost-per-label comparison or volume assumptions justify savings claim.",
+        "related_issue_ids": [
+          "MH04-009"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH04-002: Roll labels and sheet labels are separate feed formats; sentence blends them.; MH04-003: Substrate selection also depends on environment, adhesive, finish, durability, application and compliance.; MH04-004: Moisture performance varies by toner adhesion, label substrate, printer and exposure.; MH04-006: 4x6 is common for shipping labels, but service-specific templates and printer sizes differ.",
+        "related_issue_ids": [
+          "MH04-002",
+          "MH04-003",
+          "MH04-004",
+          "MH04-006"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-4": {
+        "status": "fail",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH04-003: Substrate selection also depends on environment, adhesive, finish, durability, application and compliance.; MH04-005: Direct thermal and thermal transfer have different consumables/durability and ribbon options.",
+        "related_issue_ids": [
+          "MH04-003",
+          "MH04-005"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "No independent additional technical defect established for this narrowly framed check beyond separately flagged findings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-0": {
+        "status": "fail",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH04-010: All address labels can be stickers; section is not a distinct type alongside return/clear/seasonal.",
+        "related_issue_ids": [
+          "MH04-010"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-1": {
+        "status": "pass",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-2": {
+        "status": "pass",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-3": {
+        "status": "pass",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-5": {
+        "status": "fail",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH04-010: All address labels can be stickers; section is not a distinct type alongside return/clear/seasonal.",
+        "related_issue_ids": [
+          "MH04-010"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Contains relevant examples or action context; substantive defects separately linked to issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-1": {
+        "status": "pass",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "Size table presents 1×2⅝, 1⅓×4, 2×4 and 3⅓×4 examples.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-2": {
+        "status": "fail",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH04-008: No template compatibility, label gap/sensor calibration, printer language, ribbon, barcode scannability or test print checklist.",
+        "related_issue_ids": [
+          "MH04-008"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-3": {
+        "status": "fail",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH04-002: Roll labels and sheet labels are separate feed formats; sentence blends them.; MH04-003: Substrate selection also depends on environment, adhesive, finish, durability, application and compliance.; MH04-005: Direct thermal and thermal transfer have different consumables/durability and ribbon options.; MH04-010: All address labels can be stickers; section is not a distinct type alongside return/clear/seasonal.",
+        "related_issue_ids": [
+          "MH04-002",
+          "MH04-003",
+          "MH04-005",
+          "MH04-010"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH04-006: 4x6 is common for shipping labels, but service-specific templates and printer sizes differ.; MH04-008: No template compatibility, label gap/sensor calibration, printer language, ribbon, barcode scannability or test print checklist.",
+        "related_issue_ids": [
+          "MH04-006",
+          "MH04-008"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-5": {
+        "status": "not_verified",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "This criterion includes external plagiarism detection; no corpus-wide similarity analysis was conducted. Internal repetition is documented in other questions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-0": {
+        "status": "pass",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-3": {
+        "status": "pass",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Has useful size table and printer-workflow headings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-5": {
+        "status": "pass",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Topic appears in title and key headings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-3": {
+        "status": "pass",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-0": {
+        "status": "pass",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Discusses packing volume, logistics and e-commerce shipping.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH04-008: No template compatibility, label gap/sensor calibration, printer language, ribbon, barcode scannability or test print checklist.",
+        "related_issue_ids": [
+          "MH04-008"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-2": {
+        "status": "fail",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH04-008: No template compatibility, label gap/sensor calibration, printer language, ribbon, barcode scannability or test print checklist.",
+        "related_issue_ids": [
+          "MH04-008"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH04-008: No template compatibility, label gap/sensor calibration, printer language, ribbon, barcode scannability or test print checklist.",
+        "related_issue_ids": [
+          "MH04-008"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Links to address label products and related materials.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Destinations not individually HTTP-tested; visible anchors alone do not prove destination correctness.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-4": {
+        "status": "not_verified",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Sitewide internal-link opportunity gap cannot be concluded without a full relevant destination inventory.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH04-001: Obvious spelling error in introduction.; MH04-007: Sentence is ungrammatical and unclear.",
+        "related_issue_ids": [
+          "MH04-001",
+          "MH04-007"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "No separately demonstrated failure of this specific language check; see documented editorial issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH04-001: Obvious spelling error in introduction.; MH04-007: Sentence is ungrammatical and unclear.",
+        "related_issue_ids": [
+          "MH04-001",
+          "MH04-007"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-3": {
+        "status": "pass",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "No separately demonstrated failure of this specific language check; see documented editorial issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH04-007: Sentence is ungrammatical and unclear.",
+        "related_issue_ids": [
+          "MH04-007"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH04-004: Moisture performance varies by toner adhesion, label substrate, printer and exposure.; MH04-009: No cost-per-label comparison or volume assumptions justify savings claim.",
+        "related_issue_ids": [
+          "MH04-004",
+          "MH04-009"
+        ],
+        "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      }
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "MH04-001",
+      "title": "Unambiguous spelling mistake",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Introduction",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "You will alsol learn about the best printing methods",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-001.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Obvious spelling error in introduction.",
+      "recommended_action": "Change alsol to also.",
+      "verification_status": "verified spelling error",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-002",
+      "title": "Incorrectly combines roll and sheet form factors",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-3",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Address Label Stickers",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "They are roll-fed, peel-and-stick sheets.",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-002.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Roll labels and sheet labels are separate feed formats; sentence blends them.",
+      "recommended_action": "Specify roll labels or printable adhesive sheets based on the actual product.",
+      "verification_status": "verified wording contradiction",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-003",
+      "title": "Material choice claimed to depend solely on printing",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-3",
+        "1-4",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Best Materials",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Material choice depends solely on which printing technology you’re using.",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-003.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Substrate selection also depends on environment, adhesive, finish, durability, application and compliance.",
+      "recommended_action": "State printer compatibility is one of several criteria; include environmental/adhesive factors.",
+      "verification_status": "verified absolute",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-004",
+      "title": "Laser toner described as fully water-proof",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Inkjet Printer vs Laser",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "In laser printers, there is no smudging on the text even when it is damp.",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-004.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Moisture performance varies by toner adhesion, label substrate, printer and exposure.",
+      "recommended_action": "Qualify water resistance; suggest actual testing on chosen substrate.",
+      "verification_status": "unsupported absolute",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-005",
+      "title": "Thermal technologies conflated",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-4",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Thermal Label Printers",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "In thermal label printers, text is produced using heat and not ink.",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-005.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Direct thermal and thermal transfer have different consumables/durability and ribbon options.",
+      "recommended_action": "Distinguish direct-thermal versus thermal-transfer and resulting label choices.",
+      "verification_status": "incomplete technical distinction",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-006",
+      "title": "Misleading blanket carrier compatibility",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-3",
+        "3-4"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Roll Label Sizes",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "4\" x 6\", which fits most standard carrier templates perfectly.",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-006.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "4x6 is common for shipping labels, but service-specific templates and printer sizes differ.",
+      "recommended_action": "Present 4x6 as common, verify templates by carrier, shipment type and printer.",
+      "verification_status": "unsupported generality",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-007",
+      "title": "Poor grammar in key instruction",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Best Printing Methods",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "It is also necessary to get the ink onto the paper means printing labels effectively.",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-007.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Sentence is ungrammatical and unclear.",
+      "recommended_action": "Rewrite: Next, choose a printing method that matches your label material and volume.",
+      "verification_status": "verified grammar",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-008",
+      "title": "Buyer workflow needs stronger compatibility controls",
+      "severity": "major",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "3-2",
+        "3-4",
+        "6-1",
+        "6-2",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Label Sizes and Printing",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Your chosen size must also fit the machine you use to get your address labels printed.",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-008.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "No template compatibility, label gap/sensor calibration, printer language, ribbon, barcode scannability or test print checklist.",
+      "recommended_action": "Add procurement flow keyed to printer type, shipment label format and barcode verification.",
+      "verification_status": "verified gap",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-009",
+      "title": "Promotional absolutes and cost assertions",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-5",
+        "1-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Thermal Label Printers",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "you will save a fortune when you print address labels on a daily basis",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-009.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "No cost-per-label comparison or volume assumptions justify savings claim.",
+      "recommended_action": "Provide sample consumable cost analysis and qualified language.",
+      "verification_status": "unsupported cost claim",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH04-010",
+      "title": "Structural type taxonomy overlap",
+      "severity": "moderate",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "2-0",
+        "2-5",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Types of Address Labels",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "### Address Label Stickers",
+          "source_url": "https://print247.us/post/address-labels-explained-types-sizes-materials",
+          "web_reference": "turn601257view3",
+          "visual_evidence": "evidence_images/MH04-010.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "All address labels can be stickers; section is not a distinct type alongside return/clear/seasonal.",
+      "recommended_action": "Reorganize sections into purpose, stock/material, finish and application format.",
+      "verification_status": "category overlap",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    }
+  ],
+  "unique_confirmed_or_evidence_based_issue_count": 10,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 4,
+      "weight_percent": 15,
+      "weighted_points": 12.0,
+      "rationale": "Covers promised types, sizes, materials, printing"
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 2,
+      "weight_percent": 15,
+      "weighted_points": 6.0,
+      "rationale": "Thermal and laser performance misleading"
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 3,
+      "weight_percent": 20,
+      "weighted_points": 12.0,
+      "rationale": "Good topical breadth; format taxonomy overlap"
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Some sizes useful, compatibility workflow missing"
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Tables and headers guide reader"
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Strong search-topic fit"
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "High relevance to sellers and shipping teams"
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Visible grammatical errors"
+    }
+  },
+  "weighted_article_score": 63.0,
+  "score_status": "provisional_editorial_ratings_require_second_reviewer_calibration",
+  "executive_summary": {
+    "strengths": "Useful format and sizes table, addresses common printer workflows, and covers material selection and label application.",
+    "critical_findings": "Confuses roll and sheet formats, overgeneralizes thermal/laser moisture resistance, has visible proofreading errors, and presents unfounded universal claims about printers and adhesive.",
+    "recommended_corrections": "Separate sheet/roll form factors and direct thermal/thermal transfer; qualify water resistance as substrate/ink-dependent; proofread language and validate device-specific label compatibility."
+  },
+  "source_verification": {
+    "published_article_text_reviewed": true,
+    "article_source_reference": "turn601257view3",
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated verbatim text excerpts; not rendered website captures",
+    "link_destination_HTTP_checks_completed": false,
+    "independent_external_specification_validation_complete": false
+  },
+  "caveats": [
+    "Scores are holistic and not percentages of failed checklist items.",
+    "Technical claims require specialist confirmation before treating all as definitive regulatory findings.",
+    "Internal writer assignment is not verified by the public author byline."
+  ]
+}

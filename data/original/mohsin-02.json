@@ -1,0 +1,916 @@
+{
+  "schema_version": "3.1-evidence-deduplicated",
+  "writer": "Mohsin",
+  "writer_assignment_source": "user assignment; public byline is separate from internal writer attribution",
+  "article_number": 2,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/what-is-sachet-packaging",
+    "title": "What Is Sachet Packaging? Types, Materials & Uses (2026 Guide)",
+    "primary_keyword": "what is sachet packaging",
+    "content_type": "Informational B2B",
+    "audience": "US B2B packaging/printing buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5 independently assigned; evidence-informed editorial calibration, NOT derived from failed checklist counts",
+    "duplication_policy": "Each distinct issue assigned one ID; related diagnostic questions do not create duplicate penalties",
+    "unverified_policy": "no failure assigned for unresolved click destination, external copying, sitewide opportunity validation"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-2": {
+        "status": "pass",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Lead defines sachets as small single-use sealed pouches.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-4": {
+        "status": "pass",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-0": {
+        "status": "fail",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH02-003: US pharmaceutical packaging suitability is product- and regulatory-specific, not a general blanket FDA-approved film status.",
+        "related_issue_ids": [
+          "MH02-003"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-1": {
+        "status": "fail",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH02-002: Absolute protection is not a reliable packaged-product guarantee; seals, foil pinholes, laminate construction and conditions matter.; MH02-004: Barrier depends primarily on film structure, seal integrity and manufacture; four seals alone do not guarantee stronger barrier.",
+        "related_issue_ids": [
+          "MH02-002",
+          "MH02-004"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH02-001: No baseline, comparison material, production run, or citation supports this precise saving.; MH02-006: Compostability depends on certified material, facility/conditions, and time; biodegradability does not imply soil compostability.; MH02-007: Shelf life needs product-specific stability testing, seal, barrier, environment and composition.",
+        "related_issue_ids": [
+          "MH02-001",
+          "MH02-006",
+          "MH02-007"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH02-001: No baseline, comparison material, production run, or citation supports this precise saving.; MH02-002: Absolute protection is not a reliable packaged-product guarantee; seals, foil pinholes, laminate construction and conditions matter.; MH02-003: US pharmaceutical packaging suitability is product- and regulatory-specific, not a general blanket FDA-approved film status.; MH02-006: Compostability depends on certified material, facility/conditions, and time; biodegradability does not imply soil compostability.; MH02-009: Dose accuracy is a validated filling/process control outcome, not assured by sachet format.",
+        "related_issue_ids": [
+          "MH02-001",
+          "MH02-002",
+          "MH02-003",
+          "MH02-006",
+          "MH02-009"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-4": {
+        "status": "fail",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH02-002: Absolute protection is not a reliable packaged-product guarantee; seals, foil pinholes, laminate construction and conditions matter.; MH02-003: US pharmaceutical packaging suitability is product- and regulatory-specific, not a general blanket FDA-approved film status.; MH02-004: Barrier depends primarily on film structure, seal integrity and manufacture; four seals alone do not guarantee stronger barrier.; MH02-009: Dose accuracy is a validated filling/process control outcome, not assured by sachet format.",
+        "related_issue_ids": [
+          "MH02-002",
+          "MH02-003",
+          "MH02-004",
+          "MH02-009"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "No independent additional technical defect established for this narrowly framed check beyond separately flagged findings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-0": {
+        "status": "fail",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH02-005: Single serve is product portion and bulk is an order/sales quantity, not a structural sachet type; stick pack is earlier described as a distinct format.",
+        "related_issue_ids": [
+          "MH02-005"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-1": {
+        "status": "pass",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-2": {
+        "status": "fail",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH02-005: Single serve is product portion and bulk is an order/sales quantity, not a structural sachet type; stick pack is earlier described as a distinct format.",
+        "related_issue_ids": [
+          "MH02-005"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-3": {
+        "status": "fail",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH02-005: Single serve is product portion and bulk is an order/sales quantity, not a structural sachet type; stick pack is earlier described as a distinct format.",
+        "related_issue_ids": [
+          "MH02-005"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-5": {
+        "status": "pass",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Contains relevant examples or action context; substantive defects separately linked to issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-1": {
+        "status": "pass",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "Provides condiment, instant coffee and cosmetics sampling examples.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-2": {
+        "status": "pass",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "Contains relevant examples or action context; substantive defects separately linked to issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-3": {
+        "status": "fail",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH02-004: Barrier depends primarily on film structure, seal integrity and manufacture; four seals alone do not guarantee stronger barrier.; MH02-005: Single serve is product portion and bulk is an order/sales quantity, not a structural sachet type; stick pack is earlier described as a distinct format.; MH02-008: No usable WVTR/OTR targets, layer structure, sealing-temperature range, product compatibility, fill, machine or MOQ checklist.",
+        "related_issue_ids": [
+          "MH02-004",
+          "MH02-005",
+          "MH02-008"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH02-008: No usable WVTR/OTR targets, layer structure, sealing-temperature range, product compatibility, fill, machine or MOQ checklist.",
+        "related_issue_ids": [
+          "MH02-008"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-5": {
+        "status": "not_verified",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "This criterion includes external plagiarism detection; no corpus-wide similarity analysis was conducted. Internal repetition is documented in other questions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-0": {
+        "status": "pass",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-3": {
+        "status": "pass",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Uses named subheadings for materials and four proposed formats.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-5": {
+        "status": "pass",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Primary term appears in headline and major section headings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-3": {
+        "status": "pass",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-0": {
+        "status": "pass",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Directly addresses brands sourcing custom sachets.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH02-003: US pharmaceutical packaging suitability is product- and regulatory-specific, not a general blanket FDA-approved film status.; MH02-008: No usable WVTR/OTR targets, layer structure, sealing-temperature range, product compatibility, fill, machine or MOQ checklist.",
+        "related_issue_ids": [
+          "MH02-003",
+          "MH02-008"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-2": {
+        "status": "fail",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH02-008: No usable WVTR/OTR targets, layer structure, sealing-temperature range, product compatibility, fill, machine or MOQ checklist.",
+        "related_issue_ids": [
+          "MH02-008"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH02-008: No usable WVTR/OTR targets, layer structure, sealing-temperature range, product compatibility, fill, machine or MOQ checklist.",
+        "related_issue_ids": [
+          "MH02-008"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Internal link inventory cannot be fully verified from current indexed text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Destinations not individually HTTP-tested; visible anchors alone do not prove destination correctness.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-4": {
+        "status": "not_verified",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Sitewide internal-link opportunity gap cannot be concluded without a full relevant destination inventory.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH02-010: Unidiomatic sentence and repeated absolutes weaken expert credibility.",
+        "related_issue_ids": [
+          "MH02-010"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "No separately demonstrated failure of this specific language check; see documented editorial issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH02-010: Unidiomatic sentence and repeated absolutes weaken expert credibility.",
+        "related_issue_ids": [
+          "MH02-010"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-3": {
+        "status": "fail",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH02-010: Unidiomatic sentence and repeated absolutes weaken expert credibility.",
+        "related_issue_ids": [
+          "MH02-010"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH02-010: Unidiomatic sentence and repeated absolutes weaken expert credibility.",
+        "related_issue_ids": [
+          "MH02-010"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH02-001: No baseline, comparison material, production run, or citation supports this precise saving.; MH02-002: Absolute protection is not a reliable packaged-product guarantee; seals, foil pinholes, laminate construction and conditions matter.; MH02-006: Compostability depends on certified material, facility/conditions, and time; biodegradability does not imply soil compostability.; MH02-007: Shelf life needs product-specific stability testing, seal, barrier, environment and composition.; MH02-009: Dose accuracy is a validated filling/process control outcome, not assured by sachet format.",
+        "related_issue_ids": [
+          "MH02-001",
+          "MH02-002",
+          "MH02-006",
+          "MH02-007",
+          "MH02-009"
+        ],
+        "source_url": "https://print247.us/post/what-is-sachet-packaging",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      }
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "MH02-001",
+      "title": "Unsubstantiated 40 percent materials savings",
+      "severity": "critical",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Introduction",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Custom sachet packaging reduces materials costs by 40%",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-001.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "No baseline, comparison material, production run, or citation supports this precise saving.",
+      "recommended_action": "Remove number or provide sourced like-for-like cost model and conditions.",
+      "verification_status": "verified unsupported numerical claim",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-002",
+      "title": "Aluminum barrier claimed to stop everything",
+      "severity": "critical",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-3",
+        "1-4",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Foil / Aluminum Sachets",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Aluminum sachets block out 100 percent of environmental containments.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-002.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Absolute protection is not a reliable packaged-product guarantee; seals, foil pinholes, laminate construction and conditions matter.",
+      "recommended_action": "Explain barrier performance, pinholes, seals, and testing; remove 100 percent.",
+      "verification_status": "verified absolute technical claim",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-003",
+      "title": "Misleading FDA-approved films description",
+      "severity": "critical",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-3",
+        "1-4",
+        "6-1"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Pharmaceutical & Medication",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Engineers and medical buyers must use FDA-approved films that block all moisture and light.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-003.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "US pharmaceutical packaging suitability is product- and regulatory-specific, not a general blanket FDA-approved film status.",
+      "recommended_action": "Identify appropriate material qualification, applicable regulations, migration/compatibility and stability testing; seek specialist review.",
+      "verification_status": "verified regulatory overgeneralization; independent legal validation needed",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-004",
+      "title": "Incorrect link from pack format to barrier strength",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-4",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "4-Side Seal Sachets",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "It also provides stronger barrier benefits compared to a 3-side seal.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-004.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Barrier depends primarily on film structure, seal integrity and manufacture; four seals alone do not guarantee stronger barrier.",
+      "recommended_action": "Specify performance as measured properties and seal testing, not edge count.",
+      "verification_status": "verified unsupported causal claim",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-005",
+      "title": "Types list mixes format and purchasing volumes",
+      "severity": "moderate",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "2-0",
+        "2-2",
+        "2-3",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "4 Important Types",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "### Single-Serve vs. Bulk Sachets",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-005.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Single serve is product portion and bulk is an order/sales quantity, not a structural sachet type; stick pack is earlier described as a distinct format.",
+      "recommended_action": "Split construction formats from fill size, pack-out and procurement volume.",
+      "verification_status": "structural observation",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-006",
+      "title": "Biodegradable decomposition and performance claims too broad",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Biodegradable Sachets",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Compostable film packaging exists which decomposes naturally with time in the soil.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-006.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Compostability depends on certified material, facility/conditions, and time; biodegradability does not imply soil compostability.",
+      "recommended_action": "Specify certifications and intended industrial/home compost environment, avoid automatic decomposition.",
+      "verification_status": "verified unqualified sustainability claim",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-007",
+      "title": "Unverified foil shelf life maximum",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Foil / Aluminum Sachets",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "However, it gives your product the longest possible shelf life.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-007.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Shelf life needs product-specific stability testing, seal, barrier, environment and composition.",
+      "recommended_action": "State foil laminates may offer high barrier in appropriate constructions.",
+      "verification_status": "unsupported absolute",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-008",
+      "title": "No decision-grade film specifications",
+      "severity": "major",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "3-3",
+        "3-4",
+        "6-1",
+        "6-2",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Which Materials Are Used",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Your choice of material directly affects shelf life and brand appeal.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-008.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "No usable WVTR/OTR targets, layer structure, sealing-temperature range, product compatibility, fill, machine or MOQ checklist.",
+      "recommended_action": "Add supplier specification table and testing questions for B2B buyers.",
+      "verification_status": "verified content gap",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-009",
+      "title": "Unsubstantiated dosage assurance",
+      "severity": "critical",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-3",
+        "1-4",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Pharmaceutical & Medication",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Pharmaceutical sachet packaging ensures exact dosage accuracy for the patient.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-009.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Dose accuracy is a validated filling/process control outcome, not assured by sachet format.",
+      "recommended_action": "Explain fill-weight controls and suitable compliance review.",
+      "verification_status": "unsupported safety-relevant generalization",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH02-010",
+      "title": "Awkward technical and promotional phrasing",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2",
+        "8-3",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Introduction",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Let’s break this single-use packaging option for brands.",
+          "source_url": "https://print247.us/post/what-is-sachet-packaging",
+          "web_reference": "turn574460search0",
+          "visual_evidence": "evidence_images/MH02-010.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Unidiomatic sentence and repeated absolutes weaken expert credibility.",
+      "recommended_action": "Copyedit for concise US B2B technical register.",
+      "verification_status": "verified grammar",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    }
+  ],
+  "unique_confirmed_or_evidence_based_issue_count": 10,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 4,
+      "weight_percent": 15,
+      "weighted_points": 12.0,
+      "rationale": "Core sachet definition is direct"
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 1,
+      "weight_percent": 15,
+      "weighted_points": 3.0,
+      "rationale": "40% claim and foil/medical absolutes materially wrong"
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 3,
+      "weight_percent": 20,
+      "weighted_points": 12.0,
+      "rationale": "Industry/material breadth with taxonomy problems"
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 2,
+      "weight_percent": 15,
+      "weighted_points": 6.0,
+      "rationale": "Missing usable barrier specification workflow"
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Organized by types/materials/application"
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Topical keyword terms present but register uneven"
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Buyer audience explicit, technical sourcing weak"
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Multiple awkward absolutes"
+    }
+  },
+  "weighted_article_score": 53.0,
+  "score_status": "provisional_editorial_ratings_require_second_reviewer_calibration",
+  "executive_summary": {
+    "strengths": "Clear sachet definition and differentiation from stick packs; covers seal formats, materials and industry applications.",
+    "critical_findings": "Unsubstantiated 40% savings, absolute foil protection, inaccurate regulatory framing, sweeping biodegradable claims and category confusion undermine technical reliability.",
+    "recommended_corrections": "Remove 40% savings without source; distinguish foil-layer barrier performance from pouch seal performance; replace FDA-approved films language with specific applicable compliance requirements; fix sachet-type taxonomy and sustainable claims."
+  },
+  "source_verification": {
+    "published_article_text_reviewed": true,
+    "article_source_reference": "turn574460search0",
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated verbatim text excerpts; not rendered website captures",
+    "link_destination_HTTP_checks_completed": false,
+    "independent_external_specification_validation_complete": false
+  },
+  "caveats": [
+    "Scores are holistic and not percentages of failed checklist items.",
+    "Technical claims require specialist confirmation before treating all as definitive regulatory findings.",
+    "Internal writer assignment is not verified by the public author byline."
+  ]
+}

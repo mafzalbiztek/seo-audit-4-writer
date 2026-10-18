@@ -1,0 +1,861 @@
+{
+  "schema_version": "3.2-evidence-deduplicated",
+  "writer": "Hassan",
+  "writer_assignment_source": "user assignment only; public article byline is Bill Hogg Ryan",
+  "article_number": 3,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+    "title": "Soap Box Packaging: Types & Custom Design Ideas",
+    "primary_keyword": "soap box packaging types",
+    "keyword_source": "inferred from title",
+    "content_type": "B2B informational buying guide",
+    "audience": "US B2B packaging buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5 reviewer-assigned holistic ratings; not computed from failed checklist count",
+    "duplication_policy": "one issue ID per underlying defect; any number of checklist references",
+    "unverified_policy": "Never mark destination success, exhaustive link opportunities or external plagiarism as verified without respective tests"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Published heading, intro and body address the named topic, excluding separately flagged deficiencies.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Published heading, intro and body address the named topic, excluding separately flagged deficiencies.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "0-2": {
+        "status": "fail",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Excessive background before box types: Intro discusses generic soap benefits and market forecasts before describing box types.",
+        "related_issue_ids": [
+          "HS03-003"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Published heading, intro and body address the named topic, excluding separately flagged deficiencies.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "0-4": {
+        "status": "fail",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Excessive background before box types: Intro discusses generic soap benefits and market forecasts before describing box types. | Repeated branding and premium benefits: Shelf appeal, premium pricing and loyalty recur in the introduction, importance section and closing benefits.",
+        "related_issue_ids": [
+          "HS03-003",
+          "HS03-007"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Published heading, intro and body address the named topic, excluding separately flagged deficiencies.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "1-0": {
+        "status": "fail",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Unnecessary cosmetic cure claim in introduction: Claims soaps cure acne in a generalized manner; product claims have medical/regulatory implications and distract from packaging design.",
+        "related_issue_ids": [
+          "HS03-001"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "1-1": {
+        "status": "fail",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Moisture protection claim needs limits: Uncoated open paperboard and windows may not provide meaningful moisture barrier without wrap, liner or coating.",
+        "related_issue_ids": [
+          "HS03-004"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Unverified industry market forecast: A source is linked, but exact numbers, forecast framing and CAGR were not independently reconciled with source edition during this audit. | Eco labels interpreted as material proof: Kraft appearance does not establish recyclability, renewable content, certification, or lifecycle impacts.",
+        "related_issue_ids": [
+          "HS03-002",
+          "HS03-005"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Unnecessary cosmetic cure claim in introduction: Claims soaps cure acne in a generalized manner; product claims have medical/regulatory implications and distract from packaging design. | Moisture protection claim needs limits: Uncoated open paperboard and windows may not provide meaningful moisture barrier without wrap, liner or coating. | Eco labels interpreted as material proof: Kraft appearance does not establish recyclability, renewable content, certification, or lifecycle impacts.",
+        "related_issue_ids": [
+          "HS03-001",
+          "HS03-004",
+          "HS03-005"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "1-4": {
+        "status": "fail",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Moisture protection claim needs limits: Uncoated open paperboard and windows may not provide meaningful moisture barrier without wrap, liner or coating.",
+        "related_issue_ids": [
+          "HS03-004"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "No additional independently verified error for this exact check beyond issue register; specialist claim validation is limited.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "2-0": {
+        "status": "pass",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Article includes relevant packaging/material entities and subject subtopics; see distinct gaps identified separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "2-1": {
+        "status": "pass",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Article includes relevant packaging/material entities and subject subtopics; see distinct gaps identified separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "2-2": {
+        "status": "pass",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Article includes relevant packaging/material entities and subject subtopics; see distinct gaps identified separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "2-3": {
+        "status": "fail",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Incomplete soap-order specifications: Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+        "related_issue_ids": [
+          "HS03-006"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Article includes relevant packaging/material entities and subject subtopics; see distinct gaps identified separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "2-5": {
+        "status": "fail",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Repeated branding and premium benefits: Shelf appeal, premium pricing and loyalty recur in the introduction, importance section and closing benefits.",
+        "related_issue_ids": [
+          "HS03-007"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Specific product examples, use cases or selection guidance are given, notwithstanding distinct gaps listed in issue register.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "3-1": {
+        "status": "pass",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "Specific product examples, use cases or selection guidance are given, notwithstanding distinct gaps listed in issue register.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "3-2": {
+        "status": "fail",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "Incomplete soap-order specifications: Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+        "related_issue_ids": [
+          "HS03-006"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "3-3": {
+        "status": "fail",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "Incomplete soap-order specifications: Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+        "related_issue_ids": [
+          "HS03-006"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Incomplete soap-order specifications: Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+        "related_issue_ids": [
+          "HS03-006"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "3-5": {
+        "status": "fail",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "Repeated branding and premium benefits: Shelf appeal, premium pricing and loyalty recur in the introduction, importance section and closing benefits.",
+        "related_issue_ids": [
+          "HS03-007"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "4-0": {
+        "status": "fail",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Excessive background before box types: Intro discusses generic soap benefits and market forecasts before describing box types.",
+        "related_issue_ids": [
+          "HS03-003"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Readable headings, sections and list structure exist; localized issues are recorded separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Readable headings, sections and list structure exist; localized issues are recorded separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "4-3": {
+        "status": "fail",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "Repeated branding and premium benefits: Shelf appeal, premium pricing and loyalty recur in the introduction, importance section and closing benefits.",
+        "related_issue_ids": [
+          "HS03-007"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Readable headings, sections and list structure exist; localized issues are recorded separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "4-5": {
+        "status": "pass",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Readable headings, sections and list structure exist; localized issues are recorded separately.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Topic and supporting keyword vocabulary generally align with visible article intent; full keyword density not calculated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Topic and supporting keyword vocabulary generally align with visible article intent; full keyword density not calculated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Topic and supporting keyword vocabulary generally align with visible article intent; full keyword density not calculated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "5-3": {
+        "status": "pass",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "Topic and supporting keyword vocabulary generally align with visible article intent; full keyword density not calculated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Topic and supporting keyword vocabulary generally align with visible article intent; full keyword density not calculated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "6-0": {
+        "status": "pass",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Commercial product and buyer framing is visible; specific B2B decision gaps are separately flagged.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Incomplete soap-order specifications: Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+        "related_issue_ids": [
+          "HS03-006"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "6-2": {
+        "status": "fail",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Incomplete soap-order specifications: Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+        "related_issue_ids": [
+          "HS03-006"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Incomplete soap-order specifications: Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+        "related_issue_ids": [
+          "HS03-006"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Commercial product and buyer framing is visible; specific B2B decision gaps are separately flagged.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Commercial product and buyer framing is visible; specific B2B decision gaps are separately flagged.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Contextual internal product/information anchors are present; destination validation is not implied.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Contextual internal product/information anchors are present; destination validation is not implied.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Contextual internal product/information anchors are present; destination validation is not implied.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Actual destination HTTP response, redirect chain and page content not tested; presence of anchors is not a working-link confirmation.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "7-4": {
+        "status": "not_verified",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Some contextual links are present, but a complete sitewide inventory is unavailable; cannot prove all natural opportunities covered.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Repeated unnatural language: Agreement error and unnatural phrase; other awkward examples include core staple, perfect for and splendid choice.",
+        "related_issue_ids": [
+          "HS03-008"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "No separate verified language issue within this specific check beyond deduplicated issue register.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Repeated unnatural language: Agreement error and unnatural phrase; other awkward examples include core staple, perfect for and splendid choice.",
+        "related_issue_ids": [
+          "HS03-008"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "8-3": {
+        "status": "fail",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Repeated unnatural language: Agreement error and unnatural phrase; other awkward examples include core staple, perfect for and splendid choice.",
+        "related_issue_ids": [
+          "HS03-008"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Repeated branding and premium benefits: Shelf appeal, premium pricing and loyalty recur in the introduction, importance section and closing benefits.",
+        "related_issue_ids": [
+          "HS03-007"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Unnecessary cosmetic cure claim in introduction: Claims soaps cure acne in a generalized manner; product claims have medical/regulatory implications and distract from packaging design. | Moisture protection claim needs limits: Uncoated open paperboard and windows may not provide meaningful moisture barrier without wrap, liner or coating. | Eco labels interpreted as material proof: Kraft appearance does not establish recyclability, renewable content, certification, or lifecycle impacts.",
+        "related_issue_ids": [
+          "HS03-001",
+          "HS03-004",
+          "HS03-005"
+        ],
+        "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+        "verification_scope": "Published text, not rendered screenshot; verification gaps explicitly N/V"
+      }
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "HS03-001",
+      "title": "Unnecessary cosmetic cure claim in introduction",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Introduction",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "some might want to cure their acne",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-001.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Claims soaps cure acne in a generalized manner; product claims have medical/regulatory implications and distract from packaging design.",
+      "recommended_action": "Replace with soaps marketed for different skin concerns; avoid medical efficacy claims.",
+      "verification_status": "verified wording; medical claim not externally substantiated",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    },
+    {
+      "issue_id": "HS03-002",
+      "title": "Unverified industry market forecast",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Introduction",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "it was valued at 50.68 billion USD in 2025 and will grow up to 87.36 billion USD by the end of 2034",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-002.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "A source is linked, but exact numbers, forecast framing and CAGR were not independently reconciled with source edition during this audit.",
+      "recommended_action": "Verify forecast against original report and publication date, or omit off-intent statistic.",
+      "verification_status": "needs external source validation",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    },
+    {
+      "issue_id": "HS03-003",
+      "title": "Excessive background before box types",
+      "severity": "moderate",
+      "primary_dimension": "topic_search_intent",
+      "related_question_ids": [
+        "0-2",
+        "0-4",
+        "4-0"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Introduction",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Soaps are the core staple in everyday life.",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-003.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Intro discusses generic soap benefits and market forecasts before describing box types.",
+      "recommended_action": "Open with a comparative overview of tuck-end, kraft, window and rigid boxes.",
+      "verification_status": "direct editorial observation",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    },
+    {
+      "issue_id": "HS03-004",
+      "title": "Moisture protection claim needs limits",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-3",
+        "1-4",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Why Soap Packaging Matters",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Boxes for soaps protect the soap bars from dust, moisture, and physical impacts.",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-004.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Uncoated open paperboard and windows may not provide meaningful moisture barrier without wrap, liner or coating.",
+      "recommended_action": "Specify protective performance by stock, coating, secondary wrap and environment.",
+      "verification_status": "technical qualification required",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    },
+    {
+      "issue_id": "HS03-005",
+      "title": "Eco labels interpreted as material proof",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Kraft Soap Boxes",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Kraft is usually the go‑to material for eco friendly soap packaging",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-005.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Kraft appearance does not establish recyclability, renewable content, certification, or lifecycle impacts.",
+      "recommended_action": "Describe actual recycled content and recyclability under coating/collection conditions.",
+      "verification_status": "claim too broad without verified certifications",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    },
+    {
+      "issue_id": "HS03-006",
+      "title": "Incomplete soap-order specifications",
+      "severity": "major",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "2-3",
+        "3-2",
+        "3-3",
+        "3-4",
+        "6-1",
+        "6-2",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "How to Choose the Right Soap Boxes",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Bar size, shape, and texture affect which structures work best.",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-006.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Lacks concrete dimensional clearance, bar curing/sweating, wrap/liner needs, basis weight, print proof or order verification process.",
+      "recommended_action": "Add a buyer specification worksheet with dimensions, weight, moisture profile, board, closures, quantity and dieline signoff.",
+      "verification_status": "observed information gap",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    },
+    {
+      "issue_id": "HS03-007",
+      "title": "Repeated branding and premium benefits",
+      "severity": "moderate",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "0-4",
+        "2-5",
+        "3-5",
+        "4-3",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Why Soap Packaging Matters / Why Custom Soap Boxes Help",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Build brand recognition. Consistent colors, logos, and layouts",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-007.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Shelf appeal, premium pricing and loyalty recur in the introduction, importance section and closing benefits.",
+      "recommended_action": "Consolidate repeated benefits and add testable criteria for type/material selection.",
+      "verification_status": "same issue across sections",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    },
+    {
+      "issue_id": "HS03-008",
+      "title": "Repeated unnatural language",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2",
+        "8-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Importance / materials",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "So getting thoughtful designed boxes for soaps are your first chance",
+          "source_url": "https://print247.us/post/soap-box-packaging-types-and-custom-design-ideas",
+          "web_reference": "turn683601view2",
+          "visual_evidence": "evidence_images/HS03-008.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Agreement error and unnatural phrase; other awkward examples include core staple, perfect for and splendid choice.",
+      "recommended_action": "Copyedit for fluent American professional writing.",
+      "verification_status": "direct language errors",
+      "double_count_policy": "Single underlying problem; checklist references do not become independent deductions",
+      "writer_attribution": "assigned by user; public byline appears as Bill Hogg Ryan"
+    }
+  ],
+  "unique_issue_count": 8,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 4,
+      "weight_percent": 15,
+      "weighted_points": 12.0,
+      "rationale": "Issue evidence: Excessive background before box types"
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Issue evidence: Unnecessary cosmetic cure claim in introduction; Unverified industry market forecast; Moisture protection claim needs limits; Eco labels interpreted as material proof"
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 4,
+      "weight_percent": 20,
+      "weighted_points": 16.0,
+      "rationale": "Issue evidence: Repeated branding and premium benefits"
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Issue evidence: Incomplete soap-order specifications"
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Content performance judged against published article structure, topic fit and examples; no independent major issue assigned."
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Content performance judged against published article structure, topic fit and examples; no independent major issue assigned."
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Content performance judged against published article structure, topic fit and examples; no independent major issue assigned."
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Issue evidence: Repeated unnatural language"
+    }
+  },
+  "weighted_article_score": 70.0,
+  "score_status": "provisional_evidence_informed_editorial_rating_second_review_needed",
+  "executive_summary": {
+    "strengths": "Broad, well-labeled taxonomy of soap-box styles, material families, customization options and practical buyer-selection considerations with related internal links.",
+    "critical_findings": "Overlong introductory background and frequent repeated branding benefits; unsupported market forecast and some environmental/protective generalizations; uneven copyediting and limited physical packaging specifications.",
+    "recommended_corrections": "Verify the cited market numbers; cut repetitive benefits; add soap dimensions/moisture protection/board specs and order-proof workflow; correct language and qualify sustainability claims."
+  },
+  "source_verification": {
+    "published_article_text_reviewed": true,
+    "article_source_reference": "turn683601view2",
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated excerpts, NOT live webpage screenshots",
+    "link_destination_HTTP_checks_completed": false,
+    "independent_materials_regulatory_validation_complete": false
+  },
+  "caveats": [
+    "Public byline does not confirm or dispute internal assignment.",
+    "No raw live-page screenshots captured.",
+    "All PASSES refer to bounded content judgment, not exhaustive validation.",
+    "Scores should be moderated before ranking staff."
+  ]
+}

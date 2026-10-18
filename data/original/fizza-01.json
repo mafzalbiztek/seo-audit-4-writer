@@ -1,0 +1,1087 @@
+{
+  "schema_version": "3.0-full-editorial-reaudit",
+  "writer": "Fizza",
+  "writer_assignment_source": "user internal assignment; live author byline differs",
+  "article_number": 1,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+    "title": "How to Measure Cardboard Box Dimensions",
+    "primary_keyword": "How to Measure Cardboard Box Dimensions",
+    "content_type": "Informational",
+    "audience": "US B2B packaging buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5, independently assigned per dimension from overall evidence; NOT mechanically counted from checklist failures",
+    "duplication_policy": "one issue ID counted once regardless of related checklist IDs",
+    "link_status_not_verified": "No automated HTTP link-check performed"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "H1 and practical step-by-step measuring section; L×W×H presented.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "H1 and practical step-by-step measuring section; L×W×H presented.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "0-2": {
+        "status": "fail",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "No immediate answer: The introduction does not explain how to measure a cardboard box using length × width × height (L × W × H).\n\n\n\nExcessive background information: The opening discusses cardboard materials, product protection, storage, and shipping instead of providing measurement instructions.\n\n\n\nDelayed search-intent satisfaction: The actual measurement process appears later under the H2 \"How to Measure the Cardboard Box Dimensions.\"\n\n\n\nWeak answer-first structure: The introduction promises a guide but does not provide an actionable summary of the measurement process.",
+        "related_issue_ids": [
+          "FZ-004"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "H1 and practical step-by-step measuring section; L×W×H presented.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "0-4": {
+        "status": "fail",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Unnecessary market statistics: The cardboard box market valuation and growth forecast do not help readers measure boxes.\n\n\n\nExcessive packaging descriptions: Discussions of branding, luxury packaging, and premium unboxing experiences distract from the measurement process.\n\n\n\nTopic dilution: Several paragraphs emphasize commercial packaging benefits rather than actionable measurement guidance.",
+        "related_issue_ids": [
+          "FZ-005",
+          "FZ-006"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "H1 and practical step-by-step measuring section; L×W×H presented.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "1-0": {
+        "status": "fail",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Article statement,Assessment,Explanation\n\"They are made from heavy, layered paper known as corrugated fiberboard.\",Inaccurate,\"Not all cardboard boxes are corrugated. Folding cartons commonly use paperboard, while corrugated boxes use fluted material between liners.\"\n\"The height or depth of a cardboard box refers to the same thing.\",Imprecise,\"Height and depth may refer to the same dimension in certain box specifications, but terminology depends on box orientation and packaging style.\"\n\"Box Girth = 2 × Width + Height\",Incorrect,\"For a rectangular box where length is the longest dimension, girth is 2 × (Width + Height). The worked example calculates it correctly, but the written formula is wrong.\"",
+        "related_issue_ids": [
+          "FZ-001",
+          "FZ-002",
+          "FZ-003"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-1": {
+        "status": "fail",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Technical statement,Assessment,Finding\n\"Box Girth = 2 × Width + Height\",Incorrect,\"Missing parentheses. Correct formula: 2 × (Width + Height).\"",
+        "related_issue_ids": [
+          "FZ-001"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Factual claim,Assessment,Finding\n\"Listed standard dimensions for different box types\",Unsupported,\"No packaging standard, manufacturer specification, or authoritative source supports the stated size classifications.\"",
+        "related_issue_ids": [
+          "FZ-009",
+          "FZ-011"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Issue\tAssessment\tExplanation\nIncorrect girth formula\tContradictory\tThe article states 2 × Width + Height, but its worked example uses 2 × (Width + Height). These produce different results.\nHeight versus depth terminology\tPotentially misleading\tTreating the terms as universally interchangeable may confuse readers measuring different packaging styles.",
+        "related_issue_ids": [
+          "FZ-001",
+          "FZ-003"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-4": {
+        "status": "fail",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Assessment area,Finding\n\"Box girth explanation\",\"Weak — Provides an incorrect formula despite using the correct calculation in the example.\"\n\"Packaging material knowledge\",\"Limited — Describes cardboard boxes generally as corrugated fiberboard without distinguishing folding cartons and corrugated boxes.\"\n\"Practical packaging expertise\",\"Limited — Does not explain how board thickness, product clearance, or cushioning requirements influence the selection of box dimensions.\"\n\"Technical reasoning\",\"Limited — Discusses shipping costs but does not explain how dimensional weight relates to external box measurements.\"",
+        "related_issue_ids": [
+          "FZ-001",
+          "FZ-002",
+          "FZ-007",
+          "FZ-008"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Volume worked example and internal-vs-external dimensions are present.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "2-0": {
+        "status": "pass",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Length, width, height, girth, volume, and multiple packaging types covered.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "2-1": {
+        "status": "pass",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Length, width, height, girth, volume, and multiple packaging types covered.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "2-2": {
+        "status": "pass",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Length, width, height, girth, volume, and multiple packaging types covered.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "2-3": {
+        "status": "pass",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Length, width, height, girth, volume, and multiple packaging types covered.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Length, width, height, girth, volume, and multiple packaging types covered.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "2-5": {
+        "status": "fail",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Section,Assessment,Reason\n\"Why Do Cardboard Box Measurements Matter?\",Repetitive,\"Discusses protection, shipping costs, and material efficiency.\"\n\"How Choosing the Ideal Box Size Reduces Waste?\",Repetitive,\"Revisits material efficiency and shipping benefits already discussed.\"",
+        "related_issue_ids": [
+          "FZ-005"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Measurement example 10×6×4=240 and worked girth 12×6×3=18.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "3-1": {
+        "status": "pass",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "Measurement example 10×6×4=240 and worked girth 12×6×3=18.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "3-2": {
+        "status": "pass",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "Measurement example 10×6×4=240 and worked girth 12×6×3=18.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "3-3": {
+        "status": "pass",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "Measurement example 10×6×4=240 and worked girth 12×6×3=18.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Purchasing consideration,Assessment,Finding\n\"Internal vs. external dimensions\",Covered,\"Helps buyers understand product fit versus overall package size.\"\n\"Available box sizes\",Covered,\"Provides example dimensions for different packaging types.\"\n\"Box size and shipping costs\",\"Partially covered\",\"Mentions cost implications without explaining dimensional-weight pricing.\"\n\"Product clearance and cushioning\",Insufficient,\"Does not explain how buyers should determine appropriate allowances for protective packaging.\"\n\"Material thickness and board strength\",Insufficient,\"Does not connect material specifications with box dimensions and product requirements.\"\n\"Custom packaging specifications\",Insufficient,\"Does not explain how to prepare dimensions and specifications when requesting a manufacturer quotation.\"\n\"Purchasing trade-offs\",Insufficient,\"Does not meaningfully compare packaging fit, protect",
+        "related_issue_ids": [
+          "FZ-007",
+          "FZ-008"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "3-5": {
+        "status": "fail",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "Repeated concept\tSections involved\tAssessment\nShipping cost reduction\t“Why Do Cardboard Box Measurements Matter?” and “How Choosing the Ideal Box Size Reduces Waste?”\tRepetitive\nMaterial waste reduction\tGeneral packaging benefits discussion and “How Choosing the Ideal Box Size Reduces Waste?”\tRepetitive\nProduct protection\tIntroductory discussion and measurement-benefits sections\tRepetitive\nImportance of choosing the correct box size\tIntroduction, measurement-benefits discussion, and conclusion\tRepetitive",
+        "related_issue_ids": [
+          "FZ-005"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "4-0": {
+        "status": "fail",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Assessment area,Finding,Evaluation\nConciseness,Spends unnecessary space discussing general packaging benefits before introducing measurement guidance.,FAIL\nTopical relevance,\"Discusses cardboard boxes, product protection, and shipping, which are related to the topic.\",PASS\nDirectness,Does not immediately explain the L × W × H measurement process.,FAIL\nInformation efficiency,Includes background information that could be removed without affecting the reader's understanding.,FAIL\nReader engagement,Delays the practical information expected from a how-to article.,Needs improvement",
+        "related_issue_ids": [
+          "FZ-004",
+          "FZ-006"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Step headings organized length→width→height→volume; sample dimensions listed.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Step headings organized length→width→height→volume; sample dimensions listed.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "4-3": {
+        "status": "fail",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "Assessment area,Finding,Evaluation\nMeasurement instructions,\"Length, width, and height are explained in a logical sequence.\",PASS\nSupporting calculations,Volume and girth build on the basic measurement concepts.,PASS\nInternal vs. external dimensions,Adds a relevant distinction to the measurement discussion.,PASS\nIntroduction-to-instructions flow,General packaging background delays the main instructional content.,Needs improvement\nPackaging benefits,\"Shipping costs, product protection, and correct box sizing are discussed repeatedly.\",FAIL\nMaterial waste discussion,Overlaps with earlier explanations of efficient box sizing and packaging benefits.,FAIL",
+        "related_issue_ids": [
+          "FZ-004",
+          "FZ-005"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Step headings organized length→width→height→volume; sample dimensions listed.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "4-5": {
+        "status": "fail",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Assessment area\tFinding\tEvaluation\nSummary of measurement steps\tDoes not clearly recap the L × W × H measurement procedure.\tFAIL\nKey technical takeaways\tDoes not effectively summarize the distinction between internal and external dimensions.\tWeak\nPractical next steps\tDoes not provide a clear checklist for using measurements when selecting or ordering packaging.\tFAIL",
+        "related_issue_ids": [
+          "FZ-012"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Exact and variant query terms appear naturally in title, sections and terminology.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Exact and variant query terms appear naturally in title, sections and terminology.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Exact and variant query terms appear naturally in title, sections and terminology.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "5-3": {
+        "status": "pass",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "Exact and variant query terms appear naturally in title, sections and terminology.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Exact and variant query terms appear naturally in title, sections and terminology.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "6-0": {
+        "status": "fail",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Assessment area\tFinding\tEvaluation\nTarget buyer identification\tDoes not clearly identify specific business buyers, such as e-commerce retailers, manufacturers, or procurement managers.\tFAIL\nBusiness-specific scenarios\tProvides general measurement examples rather than scenarios involving commercial packaging orders.\tWeak\nB2B purchasing context\tDiscusses packaging and shipping but does not sufficiently connect measurements to bulk purchasing or custom box procurement.\tWeak\nBuyer-specific challenges\tDoes not directly address issues such as incorrect packaging specifications, product fit, or ordering errors from a business buyer's perspective.\tWeak\nCommercial relevance\tReferences packaging services and box selection, but these do not clearly define the intended business audience.\tPartially relevant",
+        "related_issue_ids": [
+          "FZ-007"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Business or procurement need,Assessment,Finding\nAccurate box measurements,Covered,\"Explains length, width, and height, helping businesses identify box dimensions.\"\nInternal vs. external dimensions,Covered,Provides a useful distinction for product fit and overall packaging size.\nCustom packaging specifications,Insufficient,Does not clearly explain which measurements buyers should provide when requesting custom boxes.\nProduct clearance and cushioning,Insufficient,Does not guide businesses on allowing space for protective inserts or cushioning materials.\nMaterial and strength requirements,Insufficient,Does not connect box dimensions with corrugated board specifications or product weight.\nBulk ordering considerations,Missing,Does not discuss verifying dimensions or approving samples before ordering in quantity.\nShipping cost implications,Partially covered,Mentions shipping costs but does not",
+        "related_issue_ids": [
+          "FZ-007",
+          "FZ-008"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "6-2": {
+        "status": "na",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Excluded from this article-specific evaluation; absence of irrelevant procurement subtopics is not a failure.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "na"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Decision factor,Coverage,Assessment\nSelecting appropriate box dimensions,Limited practical guidance,Partial\nProduct fit and protective cushioning,Insufficient guidance,Gap\nMaterial and box strength selection,\"Different box types mentioned, but selection criteria are limited\",Partial\nCommunicating specifications to manufacturers,No clear purchasing checklist,Gap\nEvaluating shipping-related size implications,General discussion without practical decision guidance,Partial",
+        "related_issue_ids": [
+          "FZ-007",
+          "FZ-008"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Links to cardboard, mailer and rigid box products; quote CTA is contextual.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Links to cardboard, mailer and rigid box products; quote CTA is contextual.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Article body includes several packaging product-category contextual links.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Article body includes several packaging product-category contextual links.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Article body includes several packaging product-category contextual links.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Contextual target pages exist as links in article, but final HTTP status, redirect chain and content after navigation were not independently verified.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "7-4": {
+        "status": "pass",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Article body includes several packaging product-category contextual links.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Original wording,Issue,Recommended correction\n\"“Now to the next step, which is measuring the width of the box.”\",Sentence fragment,“The next step is to measure the width of the box.”\n“Let’s take a look at an example dimensions of a cardboard box...”,Incorrect article and noun agreement,“Let's look at an example of cardboard box dimensions...”\n\"“As the experts in this industry, Print247 helps simplify these complex processes for you and offer you...”\",Subject–verb agreement,“Print247 simplifies these processes and offers...”\n“They are made using thick chipboards...”,Awkward material noun usage,“They are made from thick chipboard.”\n“They are used for heavier and multi items.”,Unnatural phrasing,“They are used for heavier products or multiple items.”\n“How Choosing the Ideal Box Size Reduces Waste?”,Incorrect question construction,“How Does Choosing the Ideal Box Size Reduce Waste?”\n“Help lo",
+        "related_issue_ids": [
+          "FZ-010",
+          "FZ-013",
+          "FZ-014"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "American English units and vocabulary; instructional text broadly comprehensible.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "pass"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Original wording,Issue,Recommended correction\n\"“Now to the next step, which is measuring the width of the box.”\",Awkward sentence fragment,\"“Next, measure the width of the box.”\"\n“Let's take a look at an example dimensions of a cardboard box...”,Unnatural phrasing and grammatical error,“Consider a cardboard box measuring...”\n“They are used for heavier and multi items.”,Unnatural word choice,“They are suitable for heavier products or multiple items.”\n\"“The height or depth of a cardboard box refers to the same thing. Well, it is used...”\",Unnecessary filler and awkward explanation,“Box height is measured from the base to the top.”\n\"“As the experts in this industry, Print247 helps simplify these complex processes for you and offer you...”\",Promotional phrasing and awkward sentence construction,“Print247 helps businesses select packaging based on their required dimensions and specifications.",
+        "related_issue_ids": [
+          "FZ-010",
+          "FZ-013"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-3": {
+        "status": "fail",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Assessment area,Finding,Evaluation\n\"Measurement terminology\",\"Uses length, width, height, and depth, but does not consistently clarify when height and depth are interchangeable.\",Needs improvement\n\"Packaging material terminology\",\"Uses cardboard and corrugated fiberboard broadly without consistently distinguishing material types.\",Needs improvement\n\"Instructional tone\",\"Measurement sections use practical, educational language.\",Consistent\n\"Conversational language\",\"Expressions such as \"\"Well\"\" and \"\"Let's take a look\"\" introduce an unnecessarily casual tone.\",Inconsistent\n\"Promotional language\",\"Shifts from instructional explanations to broad claims about Print247's expertise and services.\",Inconsistent\n\"Professional B2B voice\",\"Does not consistently maintain the precise, informative tone appropriate for business packaging buyers.\",Weak",
+        "related_issue_ids": [
+          "FZ-002",
+          "FZ-003",
+          "FZ-013"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Assessment area,Evidence from article,Evaluation\nFiller language,Expressions such as “Well” and “Let's take a look” add little instructional value.,Needs improvement\nAwkward phrasing,\"“Now to the next step, which is measuring the width of the box.”\",FAIL\nUnnatural wording,“They are used for heavier and multi items.”,FAIL\nRepetitive benefits,\"Shipping savings, product protection, and reduced packaging waste are discussed repeatedly across sections.\",FAIL\nUnnecessary background,General packaging market statistics and industry background delay the practical measurement instructions.,Needs improvement\nRedundant promotional language,Broad statements about Print247's expertise add limited value to the measurement process.,Needs improvement",
+        "related_issue_ids": [
+          "FZ-005",
+          "FZ-010",
+          "FZ-014"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Claim or language,Assessment,Evaluation\n\"“As the experts in this industry, Print247...”\",Self-declared expertise without accompanying credentials or specific supporting evidence.,Needs improvement\nStatements that correct box sizing reduces shipping costs,\"Reasonable potential benefit, but savings depend on dimensional weight, carrier pricing, and shipment specifications.\",Needs qualification\nClaims about reducing packaging waste,\"Plausible, but the extent of waste reduction depends on packaging design and material requirements.\",Needs qualification\nStatements suggesting improved product protection,\"Appropriate sizing can help, but protection also depends on material strength, cushioning, and handling conditions.\",Needs qualification\nGeneral descriptions of Print247's services,\"Commercial references are relevant, but broad expertise claims provide limited verifiable value.\",Needs improvem",
+        "related_issue_ids": [
+          "FZ-011"
+        ],
+        "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      }
+    },
+    "counts": {
+      "pass": 29,
+      "fail": 21,
+      "na": 1,
+      "not_verified": 1
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "FZ-001",
+      "title": "Incorrect box-girth formula",
+      "severity": "critical",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-1",
+        "1-3",
+        "1-4"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Box Girth = 2 × Width + Height",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "323-333",
+          "visual_evidence": "evidence_images/FZ-001.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The printed expression omits parentheses; the worked example uses 2 × (6 + 3) = 18.",
+      "recommended_action": "Use Girth = 2 × (Width + Height); confirm length is the longest dimension.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-002",
+      "title": "Imprecise cardboard/corrugated material distinction",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-4",
+        "8-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "They are made from heavy, layered paper known as corrugated fiberboard.",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "230-230",
+          "visual_evidence": "evidence_images/FZ-002.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The opening describes cardboard boxes categorically as corrugated, overlooking folding cartons made from paperboard.",
+      "recommended_action": "Distinguish corrugated shipping boxes from paperboard/folding cartons.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-003",
+      "title": "Height and depth presented as universally identical",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-3",
+        "8-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "The height or depth of a cardboard box refers to the same thing.",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "289-293",
+          "visual_evidence": "evidence_images/FZ-003.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Dimension terminology varies by orientation and box style.",
+      "recommended_action": "Define the measurement convention for this guide and note variations.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-004",
+      "title": "Measurement answer delayed by general introduction",
+      "severity": "major",
+      "primary_dimension": "topic_search_intent",
+      "related_question_ids": [
+        "0-2",
+        "4-0",
+        "4-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "This detailed guide will walk you through the complex process of measuring the cardboard box dimensions accurately.",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "230-269",
+          "visual_evidence": "evidence_images/FZ-004.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The introduction does not provide immediate L × W × H instructions.",
+      "recommended_action": "Open with a 2–3 sentence answer and then the step-by-step measurement procedure.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-005",
+      "title": "Repeated packaging benefits across sections",
+      "severity": "moderate",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "0-4",
+        "2-5",
+        "3-5",
+        "4-3",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Getting the right cardboard box size helps lower shipping charges while keeping your expensive and fragile items safe",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "239-245;388-402",
+          "visual_evidence": "evidence_images/FZ-005.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Shipping savings, protection and waste reduction recur across the introduction, benefits, waste and conclusion.",
+      "recommended_action": "Consolidate repeated benefits into one focused section and keep unique examples elsewhere.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-006",
+      "title": "Irrelevant market statistics interrupt how-to",
+      "severity": "minor",
+      "primary_dimension": "topic_search_intent",
+      "related_question_ids": [
+        "0-4",
+        "4-0"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "The demand for high quality cardboard boxes is also growing:",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "258-261",
+          "visual_evidence": "evidence_images/FZ-006.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Market-size forecasts are tangential to measuring a box.",
+      "recommended_action": "Remove the market forecast or relocate it to an industry overview.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-007",
+      "title": "B2B specification and ordering guidance missing",
+      "severity": "major",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "1-4",
+        "3-4",
+        "6-0",
+        "6-1",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "The inside dimensions of a box are the usable space where you’ll place your products.",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "381-387",
+          "visual_evidence": "evidence_images/FZ-007.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Inside/outside measurements are explained, but clearance, cushioning, board thickness, quote specifications and sample verification are not operationalized.",
+      "recommended_action": "Add a B2B ordering checklist: inside size, exterior size, product clearance, cushioning, board grade and sample confirmation.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-008",
+      "title": "Dimensional-weight relationship not explained",
+      "severity": "moderate",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "1-4",
+        "3-4",
+        "6-1",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Getting the right cardboard box size helps lower shipping charges",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "241-245",
+          "visual_evidence": "evidence_images/FZ-008.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Shipping benefit is claimed without explaining external dimensions or carrier dimensional-weight calculation.",
+      "recommended_action": "Explain when dimensional-weight pricing applies and why exterior dimensions matter; avoid carrier-specific numbers without sources.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-009",
+      "title": "Unsubstantiated standard size labels",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Let’s take a look at some of the standard cardboard box dimensions:",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "306-316;373-380",
+          "visual_evidence": "evidence_images/FZ-009.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The article labels sample sizes as standard without identifying a manufacturer, specification or standard.",
+      "recommended_action": "Label them illustrative/common examples unless a specific source establishes standard sizes.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-010",
+      "title": "Sentence fragments and awkward grammar",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Now to the next step, which is measuring the width of the box.",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "285-299",
+          "visual_evidence": "evidence_images/FZ-010.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The sentence is a fragment; other sentences contain unnatural wording and agreement errors.",
+      "recommended_action": "Edit for complete sentences, natural US English and grammatical parallelism.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-011",
+      "title": "Overgeneralized packaging outcomes and promotion",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "1-2",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Eliminate the need for filler material. This helps reduce paper waste.",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "384-398",
+          "visual_evidence": "evidence_images/FZ-011.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Appropriate sizing does not necessarily eliminate protective filler; the article also self-describes Print247 as experts without substantiation.",
+      "recommended_action": "Qualify outcomes and replace unsupported expertise claims with verifiable service descriptions.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-012",
+      "title": "Conclusion lacks practical measurement recap",
+      "severity": "moderate",
+      "primary_dimension": "content_structure_readability",
+      "related_question_ids": [
+        "4-5"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Measuring the box is far more important than you think it is.",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "399-402",
+          "visual_evidence": "evidence_images/FZ-012.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The conclusion emphasizes generic benefits rather than recapping the measurement method or purchase-ready checklist.",
+      "recommended_action": "Conclude with L × W × H, inside vs outside, and next steps for ordering.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-013",
+      "title": "Unnatural box-size wording and inconsistent unit notation",
+      "severity": "minor",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2",
+        "8-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "Large: 24 × 18 × 18 (They are used for heavier and multi items).",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "349-359",
+          "visual_evidence": "evidence_images/FZ-013.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The phrase “multi items” is unnatural and the large dimension omits inches.",
+      "recommended_action": "Use “heavier products or multiple items” and consistent inches notation.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ-014",
+      "title": "Question-form heading and inconsistent list parallelism",
+      "severity": "minor",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "verified_live_article_text",
+          "quote": "How Choosing the Ideal Box Size Reduces Waste?",
+          "source_url": "https://print247.us/post/how-to-measure-cardboard-box-dimensions",
+          "web_reference": "turn750473view0",
+          "line_ranges": "388-398",
+          "visual_evidence": "evidence_images/FZ-014.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The question heading is ungrammatical; adjacent list bullets switch grammatical structure.",
+      "recommended_action": "Use “How Does Choosing the Right Box Size Reduce Waste?” and parallel list verbs.",
+      "writer_attribution": "provisional_internal_assignment",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    }
+  ],
+  "unique_confirmed_or_evidence_based_issue_count": 14,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Core query covered, but answer delayed by background."
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 1,
+      "weight_percent": 15,
+      "weighted_points": 3.0,
+      "rationale": "Girth expression incorrect; material terminology and dimensional claims require corrections."
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 3,
+      "weight_percent": 20,
+      "weighted_points": 12.0,
+      "rationale": "Useful concepts with repeated benefits and some unsupported size lists."
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Actionable measuring steps but no complete custom-order specification checklist."
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 2,
+      "weight_percent": 10,
+      "weighted_points": 4.0,
+      "rationale": "Helpful headings, weak introduction and conclusion, repetition."
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Primary phrase and associated terms naturally integrated."
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 2,
+      "weight_percent": 10,
+      "weighted_points": 4.0,
+      "rationale": "Generic buyer language, limited procurement detail."
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Several grammar and tone failures."
+    }
+  },
+  "weighted_article_score": 51.0,
+  "score_status": "expert_judgment_scored_subject_to_editorial_calibration",
+  "executive_summary": {
+    "strengths": "The article addresses the primary search intent of “How to Measure Cardboard Box Dimensions” through step-by-step measurement instructions, practical calculation examples, and explanations of length, width, height, volume, and girth. Its logical heading structure, relevant supporting terminology, and contextual internal links to packaging categories provide a useful informational foundation. The content also introduces important concepts such as internal versus external dimensions and connects accurate measurements with packaging selection.",
+    "critical_findings": "The article contains technical inaccuracies, particularly an incorrectly written girth formula, inconsistent packaging terminology, and insufficient explanation of measurement considerations relevant to US B2B buyers. The introduction delays the direct answer, while repeated discussions of shipping costs, protection, and waste reduction weaken content efficiency. Several sentences contain grammatical errors, awkward phrasing, and unnecessary filler. Additionally, unsupported benefit claims, inconsistent editorial tone, and limited procurement-specific guidance reduce the article's professional credibility and commercial usefulness.",
+    "recommended_corrections": "Prioritize correcting the girth formula to 2 × (Width + Height) and verifying all technical explanations and calculations. Rewrite the introduction to immediately explain the L × W × H measurement process, standardize packaging terminology, and clarify internal versus external dimensions. Remove repetitive paragraphs, unnecessary industry background, and conversational filler while correcting grammatical errors. Strengthen the article with practical B2B guidance covering measurement tolerances, board thickness, product clearance, and dimensional-weight considerations. Finally, qualify unsupported promotional claims and maintain a consistent, professional American English tone throughout the article."
+  },
+  "source_verification": {
+    "published_article_text_read": true,
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated published-text excerpts, NOT captured website screenshots",
+    "external_specification_independently_verified_for_every_claim": false
+  },
+  "caveats": [
+    "Wording, contradictions and structural issues were checked against published article text; some industry claims require authoritative vendor-specific validation.",
+    "A score is an editor-calibrated rating, not a mathematically objective measure and must not be used alone for HR decisions.",
+    "Published attribution Bill Hogg Ryan differs from internally assigned writer Fizza; verify provenance if needed."
+  ]
+}

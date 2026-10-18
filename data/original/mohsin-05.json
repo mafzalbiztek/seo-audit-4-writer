@@ -1,0 +1,908 @@
+{
+  "schema_version": "3.1-evidence-deduplicated",
+  "writer": "Mohsin",
+  "writer_assignment_source": "user assignment; public byline is separate from internal writer attribution",
+  "article_number": 5,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+    "title": "How To Choose Apparel Gift Boxes For Your Brand In 2026",
+    "primary_keyword": "how to choose apparel gift boxes",
+    "content_type": "B2B buying guide",
+    "audience": "US B2B packaging/printing buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5 independently assigned; evidence-informed editorial calibration, NOT derived from failed checklist counts",
+    "duplication_policy": "Each distinct issue assigned one ID; related diagnostic questions do not create duplicate penalties",
+    "unverified_policy": "no failure assigned for unresolved click destination, external copying, sitewide opportunity validation"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-2": {
+        "status": "pass",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Short-version bullet list immediately addresses size, strength, branding, timing.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-4": {
+        "status": "pass",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Article addresses its named topic and expected learning/buying intent; see unique issues for qualified exceptions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-0": {
+        "status": "fail",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH05-002: Many presentation boxes require an outer shipping carton; protection depends on design and handling.",
+        "related_issue_ids": [
+          "MH05-002"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-1": {
+        "status": "fail",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH05-001: No universal quality ranking exists: shipping mailers may provide superior transit strength.; MH05-003: Rigid boxes are not categorically required to protect delicate fabrics; fit, inserts and transit case matter.; MH05-004: Allowance depends on folded size variability, box internal dimensions, inserts and material caliper.",
+        "related_issue_ids": [
+          "MH05-001",
+          "MH05-003",
+          "MH05-004"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH05-006: Lead times depend on supplier, production and freight; no conditions or service documentation.; MH05-008: Brand loyalty cannot be guaranteed from packaging alone; missing evidence.",
+        "related_issue_ids": [
+          "MH05-006",
+          "MH05-008"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH05-001: No universal quality ranking exists: shipping mailers may provide superior transit strength.; MH05-003: Rigid boxes are not categorically required to protect delicate fabrics; fit, inserts and transit case matter.",
+        "related_issue_ids": [
+          "MH05-001",
+          "MH05-003"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-4": {
+        "status": "fail",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "MH05-002: Many presentation boxes require an outer shipping carton; protection depends on design and handling.; MH05-004: Allowance depends on folded size variability, box internal dimensions, inserts and material caliper.",
+        "related_issue_ids": [
+          "MH05-002",
+          "MH05-004"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "No independent additional technical defect established for this narrowly framed check beyond separately flagged findings.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-0": {
+        "status": "pass",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Covers apparel box types and five buying decisions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-1": {
+        "status": "fail",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH05-005: Stock/custom refer to specification; wholesale generally refers to purchase channel/quantity, so distinctions overlap.",
+        "related_issue_ids": [
+          "MH05-005"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-2": {
+        "status": "fail",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "MH05-005: Stock/custom refer to specification; wholesale generally refers to purchase channel/quantity, so distinctions overlap.",
+        "related_issue_ids": [
+          "MH05-005"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-3": {
+        "status": "pass",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "2-5": {
+        "status": "pass",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Topic organization/coverage observable in source headings and article body, subject to listed gaps.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Contains relevant examples or action context; substantive defects separately linked to issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-1": {
+        "status": "pass",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "Compares tees, coats, knitwear and gift sets in a short list.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-2": {
+        "status": "fail",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH05-007: Useful measuring advice but missing dieline, internal/outer size, board caliper, crush strength, MOQ, sampling and packing/shipping tests.",
+        "related_issue_ids": [
+          "MH05-007"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-3": {
+        "status": "fail",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH05-002: Many presentation boxes require an outer shipping carton; protection depends on design and handling.; MH05-003: Rigid boxes are not categorically required to protect delicate fabrics; fit, inserts and transit case matter.; MH05-005: Stock/custom refer to specification; wholesale generally refers to purchase channel/quantity, so distinctions overlap.",
+        "related_issue_ids": [
+          "MH05-002",
+          "MH05-003",
+          "MH05-005"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "MH05-004: Allowance depends on folded size variability, box internal dimensions, inserts and material caliper.; MH05-007: Useful measuring advice but missing dieline, internal/outer size, board caliper, crush strength, MOQ, sampling and packing/shipping tests.; MH05-010: Two months may be too short or unnecessary depending on sampling, factory capacity and production method.",
+        "related_issue_ids": [
+          "MH05-004",
+          "MH05-007",
+          "MH05-010"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "3-5": {
+        "status": "not_verified",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "This criterion includes external plagiarism detection; no corpus-wide similarity analysis was conducted. Internal repetition is documented in other questions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-0": {
+        "status": "pass",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-3": {
+        "status": "pass",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Five-step decision framework plus style table is accessible.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "4-5": {
+        "status": "pass",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Article structure is readable and topic headings make the progression traceable, subject to listed issues.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Primary topic in title and central buying guide heading.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-3": {
+        "status": "pass",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Keyword and topical terms are relevant; no exact-match stuffing established from available text.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-0": {
+        "status": "pass",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Directly addresses apparel brand owners and store operators.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH05-007: Useful measuring advice but missing dieline, internal/outer size, board caliper, crush strength, MOQ, sampling and packing/shipping tests.",
+        "related_issue_ids": [
+          "MH05-007"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-2": {
+        "status": "fail",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH05-006: Lead times depend on supplier, production and freight; no conditions or service documentation.; MH05-007: Useful measuring advice but missing dieline, internal/outer size, board caliper, crush strength, MOQ, sampling and packing/shipping tests.; MH05-010: Two months may be too short or unnecessary depending on sampling, factory capacity and production method.",
+        "related_issue_ids": [
+          "MH05-006",
+          "MH05-007",
+          "MH05-010"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "MH05-007: Useful measuring advice but missing dieline, internal/outer size, board caliper, crush strength, MOQ, sampling and packing/shipping tests.",
+        "related_issue_ids": [
+          "MH05-007"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Product and buying themes are contextually present; significant gaps are separately mapped.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Links to rigid boxes, custom boxes, garment boxes and finishes.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Visible in-body internal links support related product/information navigation, but destinations were not status tested.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Destinations not individually HTTP-tested; visible anchors alone do not prove destination correctness.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "7-4": {
+        "status": "not_verified",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Sitewide internal-link opportunity gap cannot be concluded without a full relevant destination inventory.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH05-009: Visible typo; other constructions include focussing (UK spelling) and awkward repeated generic claims.",
+        "related_issue_ids": [
+          "MH05-009"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "No separately demonstrated failure of this specific language check; see documented editorial issue IDs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH05-009: Visible typo; other constructions include focussing (UK spelling) and awkward repeated generic claims.",
+        "related_issue_ids": [
+          "MH05-009"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-3": {
+        "status": "fail",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH05-009: Visible typo; other constructions include focussing (UK spelling) and awkward repeated generic claims.",
+        "related_issue_ids": [
+          "MH05-009"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH05-009: Visible typo; other constructions include focussing (UK spelling) and awkward repeated generic claims.",
+        "related_issue_ids": [
+          "MH05-009"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "MH05-001: No universal quality ranking exists: shipping mailers may provide superior transit strength.; MH05-006: Lead times depend on supplier, production and freight; no conditions or service documentation.; MH05-008: Brand loyalty cannot be guaranteed from packaging alone; missing evidence.",
+        "related_issue_ids": [
+          "MH05-001",
+          "MH05-006",
+          "MH05-008"
+        ],
+        "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+        "verification_scope": "indexed/published article text; actual webpage screenshots unavailable"
+      }
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "MH05-001",
+      "title": "Box material superiority asserted universally",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-3",
+        "8-5"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "What Are Apparel Gift Boxes?",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "The materials used for these containers are better than those used for plain mailer boxes.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-001.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "No universal quality ranking exists: shipping mailers may provide superior transit strength.",
+      "recommended_action": "Distinguish presentation features from ECT/BCT/protection by structure.",
+      "verification_status": "unsupported generalized comparison",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-002",
+      "title": "Gift box defined as inherently protective shipping box",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "1-4",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "What Are Apparel Gift Boxes?",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "It protects your clothes during shipment and creates a beautiful presentation.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-002.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Many presentation boxes require an outer shipping carton; protection depends on design and handling.",
+      "recommended_action": "Separate primary gift packaging from outer transit packaging.",
+      "verification_status": "technical qualification",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-003",
+      "title": "Unjustified mandatory rigid-box guidance",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-3",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Step 1: Identify What You’re Packaging",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "To protect delicate fabrics from crushing, rigid boxes are required.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-003.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Rigid boxes are not categorically required to protect delicate fabrics; fit, inserts and transit case matter.",
+      "recommended_action": "Present alternatives based on product vulnerability, cost and shipping method.",
+      "verification_status": "unsupported absolute",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-004",
+      "title": "Half-inch clearance prescribed without context",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-4",
+        "3-4"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Step 2: Size and Fit",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "add extra space (about half inch) for tissue paper or thank you cards.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-004.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Allowance depends on folded size variability, box internal dimensions, inserts and material caliper.",
+      "recommended_action": "Explain clearance as variable; measure actual packed samples and specify internal sizes.",
+      "verification_status": "specific rule unsubstantiated",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-005",
+      "title": "Stock custom wholesale mixed as peer categories",
+      "severity": "major",
+      "primary_dimension": "semantic_information_value",
+      "related_question_ids": [
+        "2-1",
+        "2-2",
+        "3-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Step 4",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Decide Between Stock, Custom, or Wholesale Boxes",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-005.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Stock/custom refer to specification; wholesale generally refers to purchase channel/quantity, so distinctions overlap.",
+      "recommended_action": "Reframe as stock versus custom, then volume/wholesale purchasing options.",
+      "verification_status": "verified category inconsistency",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-006",
+      "title": "Unsupported fulfillment timeline",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "8-5",
+        "6-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Step 4",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Stock boxes arrive in a few days. Custom and bulk orders take a few weeks to print and ship.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-006.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Lead times depend on supplier, production and freight; no conditions or service documentation.",
+      "recommended_action": "Give indicative ranges with caveats or actual supplier lead time references.",
+      "verification_status": "not independently verified",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-007",
+      "title": "No structured quote/specification handoff",
+      "severity": "major",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "3-2",
+        "3-4",
+        "6-1",
+        "6-2",
+        "6-3"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Steps 2–4",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Start by folding your garment exactly how you plan to ship it.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-007.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Useful measuring advice but missing dieline, internal/outer size, board caliper, crush strength, MOQ, sampling and packing/shipping tests.",
+      "recommended_action": "Add ready-to-send supplier brief and sample approval checklist.",
+      "verification_status": "verified gap",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-008",
+      "title": "Branding outcomes asserted as guaranteed",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-5",
+        "1-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Conclusion",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "A beautiful box builds loyalty.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-008.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Brand loyalty cannot be guaranteed from packaging alone; missing evidence.",
+      "recommended_action": "Describe a potential presentation benefit without claiming causal certainty.",
+      "verification_status": "unsubstantiated promotional inference",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-009",
+      "title": "Typos and imprecise phrasing",
+      "severity": "moderate",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "8-0",
+        "8-2",
+        "8-3",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "Introduction and Step 2",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "an apparel gift box that is tool tight",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-009.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Visible typo; other constructions include focussing (UK spelling) and awkward repeated generic claims.",
+      "recommended_action": "Fix too tight, use focusing for consistent American English, copyedit.",
+      "verification_status": "verified editorial error",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    },
+    {
+      "issue_id": "MH05-010",
+      "title": "Ordering seasonality guidance lacks basis",
+      "severity": "moderate",
+      "primary_dimension": "practical_decision_support",
+      "related_question_ids": [
+        "3-4",
+        "6-2"
+      ],
+      "count_as_unique_issue": true,
+      "article_section": "The Short Version",
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Order seasonal holiday boxes at least two months early.",
+          "source_url": "https://print247.us/post/how-to-choose-apparel-gift-boxes-for-your-clothing-brand",
+          "web_reference": "turn601257view4",
+          "visual_evidence": "evidence_images/MH05-010.png",
+          "visual_evidence_type": "annotated_verbatim_excerpt_NOT_browser_screenshot"
+        }
+      ],
+      "reason": "Two months may be too short or unnecessary depending on sampling, factory capacity and production method.",
+      "recommended_action": "Suggest reverse calendar based on proof, sample, manufacture, fulfillment, and buffer.",
+      "verification_status": "specific claim not validated",
+      "double_count_policy": "Count underlying issue once; correlated checklist flags serve as references only",
+      "writer_attribution": "user_assigned; public byline not verified as authorship proof"
+    }
+  ],
+  "unique_confirmed_or_evidence_based_issue_count": 10,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 4,
+      "weight_percent": 15,
+      "weighted_points": 12.0,
+      "rationale": "Clear buyer selection path"
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 2,
+      "weight_percent": 15,
+      "weighted_points": 6.0,
+      "rationale": "Protection and sizing guidance overgeneralized"
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 3,
+      "weight_percent": 20,
+      "weighted_points": 12.0,
+      "rationale": "Wide selection criteria; distinctions blur"
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Practical steps but no quote-ready specifications"
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Strong five-step structure"
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Natural topical terms"
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Direct and relevant apparel seller audience"
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Typos and promotional absolutes"
+    }
+  },
+  "weighted_article_score": 65.0,
+  "score_status": "provisional_editorial_ratings_require_second_reviewer_calibration",
+  "executive_summary": {
+    "strengths": "Provides a five-step selection framework including garment fit, finish, order model and seasonal scheduling, plus useful product examples.",
+    "critical_findings": "Contains blanket packaging material and garment-protection claims, arbitrary half-inch allowance, inconsistent category comparisons and several unsupported commercial guarantees.",
+    "recommended_corrections": "Qualify structural/protection claims; define measured clearance based on garment and insert; clarify stock/custom versus purchase-quantity distinctions; add sample approval and realistic lead-time guidance."
+  },
+  "source_verification": {
+    "published_article_text_reviewed": true,
+    "article_source_reference": "turn601257view4",
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated verbatim text excerpts; not rendered website captures",
+    "link_destination_HTTP_checks_completed": false,
+    "independent_external_specification_validation_complete": false
+  },
+  "caveats": [
+    "Scores are holistic and not percentages of failed checklist items.",
+    "Technical claims require specialist confirmation before treating all as definitive regulatory findings.",
+    "Internal writer assignment is not verified by the public author byline."
+  ]
+}

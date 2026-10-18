@@ -1,0 +1,906 @@
+{
+  "schema_version": "3.0-full-editorial-reaudit",
+  "writer": "Fizza",
+  "writer_assignment_source": "user internal assignment; live author byline differs",
+  "article_number": 2,
+  "audit_date": "2026-10-16",
+  "article": {
+    "website": "print247.us",
+    "url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+    "title": "Standard Baseball Card Sizes: All Dimensions in Inches, CM, & MM",
+    "primary_keyword": "standard baseball card size",
+    "content_type": "Informational",
+    "audience": "US B2B print and packaging buyers"
+  },
+  "assessment_methodology": {
+    "diagnostic_groups": 9,
+    "diagnostic_checks": 52,
+    "holistic_scoring_dimensions": 8,
+    "weights": {
+      "topic_search_intent": 15,
+      "factual_technical_accuracy": 15,
+      "semantic_information_value": 20,
+      "practical_decision_support": 15,
+      "content_structure_readability": 10,
+      "natural_seo_integration": 10,
+      "b2b_commercial_relevance": 10,
+      "editorial_quality": 5
+    },
+    "rating_scale": "0–5, independently assigned per dimension from overall evidence; NOT mechanically counted from checklist failures",
+    "duplication_policy": "one issue ID counted once regardless of related checklist IDs",
+    "link_status_not_verified": "No automated HTTP link-check performed"
+  },
+  "diagnostic_checklist": {
+    "responses": {
+      "0-0": {
+        "status": "pass",
+        "criterion": "The article has a clear primary topic and target query.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Lead states 2.5×3.5-inch baseball-card dimensions; title includes inches/cm/mm.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "0-1": {
+        "status": "pass",
+        "criterion": "The title accurately reflects what the article delivers.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Lead states 2.5×3.5-inch baseball-card dimensions; title includes inches/cm/mm.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "0-2": {
+        "status": "pass",
+        "criterion": "The introduction answers or directly addresses the main search intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Lead states 2.5×3.5-inch baseball-card dimensions; title includes inches/cm/mm.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "0-3": {
+        "status": "pass",
+        "criterion": "The content solves the reader’s primary problem.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Lead states 2.5×3.5-inch baseball-card dimensions; title includes inches/cm/mm.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "0-4": {
+        "status": "fail",
+        "criterion": "Sections stay focused on the main topic without unnecessary tangents.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Incorrect playing-card comparison: Playing cards are a different product category and this asserted link to baseball-card resale value is unsupported.",
+        "related_issue_ids": [
+          "FZ02-009"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "0-5": {
+        "status": "pass",
+        "criterion": "The article matches the expected informational or commercial intent.",
+        "section": "Search Intent & Topic Targeting",
+        "review_note": "Lead states 2.5×3.5-inch baseball-card dimensions; title includes inches/cm/mm.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "1-0": {
+        "status": "fail",
+        "criterion": "Product, material, and packaging terminology is accurate.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Card-versus-slab dimensions insufficiently differentiated: Grading case dimensions are mixed into a card-size chart without clearly identifying case width, height, and thickness. | Incorrect sleeve description: Penny sleeves are sleeves, not boxes.",
+        "related_issue_ids": [
+          "FZ02-003",
+          "FZ02-004"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-1": {
+        "status": "fail",
+        "criterion": "Specifications, dimensions, and technical statements are correct.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Questionable graded-slab dimensions in table: The chart lists 0.2 inch for the first slab dimension while the later PSA description says 3.2 inches; this is an internal contradiction.",
+        "related_issue_ids": [
+          "FZ02-002"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-2": {
+        "status": "fail",
+        "criterion": "Statistics and significant factual claims have credible support.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Incorrect historical chronology: The chronology then jumps backward to 1871 and 1888; first-production framing conflicts with its own earlier dates. | Potentially misleading authenticity claim: Standard dimensions alone do not establish a card’s authenticity. | Unsubstantiated slab and vintage-size generalizations: Vintage cards vary significantly by set and period; a single dimension for decades of cards is not adequately qualified.",
+        "related_issue_ids": [
+          "FZ02-001",
+          "FZ02-005",
+          "FZ02-006",
+          "FZ02-009"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-3": {
+        "status": "fail",
+        "criterion": "The content contains no misleading or contradictory claims.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Incorrect historical chronology: The chronology then jumps backward to 1871 and 1888; first-production framing conflicts with its own earlier dates. | Questionable graded-slab dimensions in table: The chart lists 0.2 inch for the first slab dimension while the later PSA description says 3.2 inches; this is an internal contradiction. | Potentially misleading authenticity claim: Standard dimensions alone do not establish a card’s authenticity.",
+        "related_issue_ids": [
+          "FZ02-001",
+          "FZ02-002",
+          "FZ02-005"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "1-4": {
+        "status": "fail",
+        "criterion": "Explanations demonstrate genuine subject-matter understanding.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "Direct article review: substantive weakness in explanations demonstrate genuine subject-matter understanding. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "1-5": {
+        "status": "pass",
+        "criterion": "The information is relevant and accurate for US B2B buyers.",
+        "section": "Factual Accuracy & Research",
+        "review_note": "63.5×88.9 mm corresponds to 2.5×3.5 in; 5:7 aspect ratio correctly calculated.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-0": {
+        "status": "fail",
+        "criterion": "Important entities, attributes, and subtopics are covered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Card-versus-slab dimensions insufficiently differentiated: Grading case dimensions are mixed into a card-size chart without clearly identifying case width, height, and thickness.",
+        "related_issue_ids": [
+          "FZ02-003"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "2-1": {
+        "status": "pass",
+        "criterion": "The article explains meaningful relationships between concepts.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Historical sizes, standard size, slabs, storage and design coverage provided.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-2": {
+        "status": "pass",
+        "criterion": "H2 and H3 headings follow a logical topical hierarchy.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Historical sizes, standard size, slabs, storage and design coverage provided.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-3": {
+        "status": "fail",
+        "criterion": "Essential questions and decision factors are answered.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Unsubstantiated slab and vintage-size generalizations: Vintage cards vary significantly by set and period; a single dimension for decades of cards is not adequately qualified.",
+        "related_issue_ids": [
+          "FZ02-006"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "2-4": {
+        "status": "pass",
+        "criterion": "There are no major topical gaps that prevent intent satisfaction.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Historical sizes, standard size, slabs, storage and design coverage provided.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "2-5": {
+        "status": "fail",
+        "criterion": "Sections add distinct value instead of repeating the same information.",
+        "section": "Semantic SEO & Topical Coverage",
+        "review_note": "Direct article review: substantive weakness in sections add distinct value instead of repeating the same information. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-0": {
+        "status": "pass",
+        "criterion": "The article provides more than generic definitions or descriptions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Standard size conversion, aspect-ratio computation and reference chart provided.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-1": {
+        "status": "pass",
+        "criterion": "Practical examples or specific applications are included where useful.",
+        "section": "Originality & Information Gain",
+        "review_note": "Standard size conversion, aspect-ratio computation and reference chart provided.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-2": {
+        "status": "pass",
+        "criterion": "Readers receive actionable advice or decision-making guidance.",
+        "section": "Originality & Information Gain",
+        "review_note": "Standard size conversion, aspect-ratio computation and reference chart provided.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-3": {
+        "status": "pass",
+        "criterion": "Useful comparisons, specifications, or trade-offs are explained.",
+        "section": "Originality & Information Gain",
+        "review_note": "Standard size conversion, aspect-ratio computation and reference chart provided.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-4": {
+        "status": "fail",
+        "criterion": "The content offers insights relevant to real packaging purchasing decisions.",
+        "section": "Originality & Information Gain",
+        "review_note": "Direct article review: substantive weakness in the content offers insights relevant to real packaging purchasing decisions. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "3-5": {
+        "status": "fail",
+        "criterion": "There is no evident substantial duplication or unattributed copying.",
+        "section": "Originality & Information Gain",
+        "review_note": "Repeated standard dimensions and SEO phrasing: The same standard size is restated across intro, size section, chart, conclusion and FAQ; wording is awkward.",
+        "related_issue_ids": [
+          "FZ02-008"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "4-0": {
+        "status": "pass",
+        "criterion": "The introduction is concise and relevant.",
+        "section": "Structure & Readability",
+        "review_note": "Headings distinguish size chart, grading holders, storage and FAQs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-1": {
+        "status": "pass",
+        "criterion": "Headings are descriptive, clear, and logically organized.",
+        "section": "Structure & Readability",
+        "review_note": "Headings distinguish size chart, grading holders, storage and FAQs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-2": {
+        "status": "pass",
+        "criterion": "Paragraphs and sentences are easy to follow.",
+        "section": "Structure & Readability",
+        "review_note": "Headings distinguish size chart, grading holders, storage and FAQs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-3": {
+        "status": "fail",
+        "criterion": "The article progresses logically without unnecessary repetition.",
+        "section": "Structure & Readability",
+        "review_note": "Direct article review: substantive weakness in the article progresses logically without unnecessary repetition. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-4": {
+        "status": "pass",
+        "criterion": "Tables, lists, and examples improve understanding where appropriate.",
+        "section": "Structure & Readability",
+        "review_note": "Headings distinguish size chart, grading holders, storage and FAQs.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "4-5": {
+        "status": "fail",
+        "criterion": "The conclusion summarizes useful takeaways or next steps.",
+        "section": "Structure & Readability",
+        "review_note": "Direct article review: substantive weakness in the conclusion summarizes useful takeaways or next steps. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-0": {
+        "status": "pass",
+        "criterion": "The primary keyword is used naturally in relevant locations.",
+        "section": "Keyword Integration",
+        "review_note": "Title and major headings explicitly cover baseball card dimensions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-1": {
+        "status": "pass",
+        "criterion": "Supporting terms and variations fit the article’s context.",
+        "section": "Keyword Integration",
+        "review_note": "Title and major headings explicitly cover baseball card dimensions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-2": {
+        "status": "pass",
+        "criterion": "Headings are descriptive rather than keyword-stuffed.",
+        "section": "Keyword Integration",
+        "review_note": "Title and major headings explicitly cover baseball card dimensions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-3": {
+        "status": "pass",
+        "criterion": "There is no excessive exact-match keyword repetition.",
+        "section": "Keyword Integration",
+        "review_note": "Title and major headings explicitly cover baseball card dimensions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "5-4": {
+        "status": "pass",
+        "criterion": "The article consistently addresses one coherent primary intent.",
+        "section": "Keyword Integration",
+        "review_note": "Title and major headings explicitly cover baseball card dimensions.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-0": {
+        "status": "fail",
+        "criterion": "The intended business buyer is clearly identifiable.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Collector emphasis dilutes print-buyer needs: Most practical advice focuses on collectors and holders rather than print-production specifications for buyers.",
+        "related_issue_ids": [
+          "FZ02-007"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "6-1": {
+        "status": "fail",
+        "criterion": "The content addresses practical business or procurement needs.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Collector emphasis dilutes print-buyer needs: Most practical advice focuses on collectors and holders rather than print-production specifications for buyers.",
+        "related_issue_ids": [
+          "FZ02-007"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "6-2": {
+        "status": "fail",
+        "criterion": "Relevant considerations such as MOQ, customization, materials, printing, or lead times are explained where appropriate.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Direct article review: substantive weakness in relevant considerations such as moq, customization, materials, printing, or lead times are explained where appropriate. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-3": {
+        "status": "fail",
+        "criterion": "The content supports an informed product or packaging decision.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Direct article review: substantive weakness in the content supports an informed product or packaging decision. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-4": {
+        "status": "pass",
+        "criterion": "Product or category references are contextually relevant.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Designers/manufacturers addressed in intro and design section.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "6-5": {
+        "status": "pass",
+        "criterion": "Commercial calls to action are helpful and appropriate to the article’s intent.",
+        "section": "B2B Audience & Commercial Alignment",
+        "review_note": "Designers/manufacturers addressed in intro and design section.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-0": {
+        "status": "pass",
+        "criterion": "Relevant internal links are included where useful.",
+        "section": "Internal Linking",
+        "review_note": "Contextual link to relevant standard card-size information.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-1": {
+        "status": "pass",
+        "criterion": "Anchor text clearly describes the destination.",
+        "section": "Internal Linking",
+        "review_note": "Contextual link to relevant standard card-size information.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-2": {
+        "status": "pass",
+        "criterion": "Linked product, category, or informational pages are contextually relevant.",
+        "section": "Internal Linking",
+        "review_note": "Contextual link to relevant standard card-size information.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-3": {
+        "status": "not_verified",
+        "criterion": "Links lead to appropriate working destinations.",
+        "section": "Internal Linking",
+        "review_note": "Contextual target pages exist as links in article, but final HTTP status, redirect chain and content after navigation were not independently verified.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "7-4": {
+        "status": "pass",
+        "criterion": "Important natural internal linking opportunities are not overlooked.",
+        "section": "Internal Linking",
+        "review_note": "Contextual link to relevant standard card-size information.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "8-0": {
+        "status": "fail",
+        "criterion": "Grammar, spelling, and punctuation are correct.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Incorrect sleeve description: Penny sleeves are sleeves, not boxes.",
+        "related_issue_ids": [
+          "FZ02-004"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-1": {
+        "status": "pass",
+        "criterion": "American English conventions are applied consistently.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "US customary units with metric equivalents; general spelling predominantly US.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "8-2": {
+        "status": "fail",
+        "criterion": "Sentences sound natural and professional.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Direct article review: substantive weakness in sentences sound natural and professional. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "8-3": {
+        "status": "fail",
+        "criterion": "Terminology and brand voice remain consistent.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Direct article review: substantive weakness in terminology and brand voice remain consistent. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      },
+      "8-4": {
+        "status": "fail",
+        "criterion": "Filler, awkward phrasing, and unnecessary repetition are minimized.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Repeated standard dimensions and SEO phrasing: The same standard size is restated across intro, size section, chart, conclusion and FAQ; wording is awkward.",
+        "related_issue_ids": [
+          "FZ02-008"
+        ],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "fail"
+      },
+      "8-5": {
+        "status": "fail",
+        "criterion": "Claims avoid exaggerated or unsupported promotional language.",
+        "section": "Grammar & Editorial Quality",
+        "review_note": "Direct article review: substantive weakness in claims avoid exaggerated or unsupported promotional language. See nearby section, relevant issue register and source article.",
+        "related_issue_ids": [],
+        "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+        "verification_scope": "published article body; no browser-rendered screenshots",
+        "original_assessment_status": "not_assessed"
+      }
+    },
+    "counts": {
+      "pass": 29,
+      "fail": 22,
+      "not_verified": 1
+    }
+  },
+  "unique_issues": [
+    {
+      "issue_id": "FZ02-001",
+      "title": "Incorrect historical chronology",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "1-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Early 1900s: These cards were first produced by tobacco companies.",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "192-204",
+          "visual_evidence": "evidence_images/FZ02-001.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The chronology then jumps backward to 1871 and 1888; first-production framing conflicts with its own earlier dates.",
+      "recommended_action": "Reorder chronologically and distinguish early tobacco issues from earlier baseball cards.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-002",
+      "title": "Questionable graded-slab dimensions in table",
+      "severity": "critical",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-1",
+        "1-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "PSA graded slab  | .2 × 5.3 × 0.25",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "246-263",
+          "visual_evidence": "evidence_images/FZ02-002.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The chart lists 0.2 inch for the first slab dimension while the later PSA description says 3.2 inches; this is an internal contradiction.",
+      "recommended_action": "Verify current slab manufacturer dimensions and correct the chart.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-003",
+      "title": "Card-versus-slab dimensions insufficiently differentiated",
+      "severity": "major",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "2-0"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "PSA graded slab",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "246-265",
+          "visual_evidence": "evidence_images/FZ02-003.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Grading case dimensions are mixed into a card-size chart without clearly identifying case width, height, and thickness.",
+      "recommended_action": "Separate trading-card sizes from grading-holder exterior dimensions.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-004",
+      "title": "Incorrect sleeve description",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-0",
+        "8-0"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Penny Sleeves: These boxes feature soft polypropylene sleeves.",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "266-274",
+          "visual_evidence": "evidence_images/FZ02-004.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Penny sleeves are sleeves, not boxes.",
+      "recommended_action": "Define penny sleeves as flexible plastic sleeves, and storage boxes separately.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-005",
+      "title": "Potentially misleading authenticity claim",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "1-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "the right size indicates authenticity",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "277-286",
+          "visual_evidence": "evidence_images/FZ02-005.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Standard dimensions alone do not establish a card’s authenticity.",
+      "recommended_action": "State that size is one inspection factor and is not proof of authenticity.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-006",
+      "title": "Unsubstantiated slab and vintage-size generalizations",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "2-3"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Vintage baseball cards  | 1.5 × 2.625",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "245-255",
+          "visual_evidence": "evidence_images/FZ02-006.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Vintage cards vary significantly by set and period; a single dimension for decades of cards is not adequately qualified.",
+      "recommended_action": "Add named sets/eras and source-specific dimensions.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-007",
+      "title": "Collector emphasis dilutes print-buyer needs",
+      "severity": "moderate",
+      "primary_dimension": "b2b_commercial_relevance",
+      "related_question_ids": [
+        "6-0",
+        "6-1"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "Baseball cards hold immense value in American sports culture.",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "189-191;266-290",
+          "visual_evidence": "evidence_images/FZ02-007.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Most practical advice focuses on collectors and holders rather than print-production specifications for buyers.",
+      "recommended_action": "Add bleed, trim tolerance, stock thickness, corner radius, finish, and order-proof guidance.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-008",
+      "title": "Repeated standard dimensions and SEO phrasing",
+      "severity": "minor",
+      "primary_dimension": "editorial_quality",
+      "related_question_ids": [
+        "3-5",
+        "8-4"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "If you are still asking what are the dimensions of a baseball card",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "191;213-245;287-305",
+          "visual_evidence": "evidence_images/FZ02-008.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "The same standard size is restated across intro, size section, chart, conclusion and FAQ; wording is awkward.",
+      "recommended_action": "Consolidate repeated statements and revise question grammar.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    },
+    {
+      "issue_id": "FZ02-009",
+      "title": "Incorrect playing-card comparison",
+      "severity": "moderate",
+      "primary_dimension": "factual_technical_accuracy",
+      "related_question_ids": [
+        "1-2",
+        "0-4"
+      ],
+      "count_as_unique_issue": true,
+      "evidence": [
+        {
+          "type": "published_article_text",
+          "quote": "The size of standard playing cards helps increase their demand and resale prices.",
+          "source_url": "https://print247.us/post/standard-baseball-card-sizes-all-dimensions-in-inches-cm-mm",
+          "web_reference": "turn750473view1",
+          "line_ranges": "277-286",
+          "visual_evidence": "evidence_images/FZ02-009.png",
+          "visual_evidence_type": "annotated_source_excerpt_NOT_real_browser_screenshot"
+        }
+      ],
+      "reason": "Playing cards are a different product category and this asserted link to baseball-card resale value is unsupported.",
+      "recommended_action": "Remove the comparison or provide a directly relevant, sourced explanation.",
+      "writer_attribution": "user_assigned_not_independently_verified",
+      "verification_status": "verified_wording_or_structural_issue; factual_impact_may_need_external_specification",
+      "double_count_policy": "Unique issue counted once; related diagnostic failures do not contribute additional penalties"
+    }
+  ],
+  "unique_confirmed_or_evidence_based_issue_count": 9,
+  "dimension_scores": {
+    "topic_search_intent": {
+      "rating_0_to_5": 4,
+      "weight_percent": 15,
+      "weighted_points": 12.0,
+      "rationale": "Provides direct size answer and usable conversion."
+    },
+    "factual_technical_accuracy": {
+      "rating_0_to_5": 2,
+      "weight_percent": 15,
+      "weighted_points": 6.0,
+      "rationale": "Slab-size contradiction, historical chronology and authenticity overclaims."
+    },
+    "semantic_information_value": {
+      "rating_0_to_5": 3,
+      "weight_percent": 20,
+      "weighted_points": 12.0,
+      "rationale": "Many card variants described, but categories and evidence need refinement."
+    },
+    "practical_decision_support": {
+      "rating_0_to_5": 3,
+      "weight_percent": 15,
+      "weighted_points": 9.0,
+      "rationale": "Chart useful, production ordering details underdeveloped."
+    },
+    "content_structure_readability": {
+      "rating_0_to_5": 3,
+      "weight_percent": 10,
+      "weighted_points": 6.0,
+      "rationale": "Clear sections but duplicated standard dimensions."
+    },
+    "natural_seo_integration": {
+      "rating_0_to_5": 4,
+      "weight_percent": 10,
+      "weighted_points": 8.0,
+      "rationale": "Descriptive headings and related terms."
+    },
+    "b2b_commercial_relevance": {
+      "rating_0_to_5": 2,
+      "weight_percent": 10,
+      "weighted_points": 4.0,
+      "rationale": "Collector focus overshadows print procurement."
+    },
+    "editorial_quality": {
+      "rating_0_to_5": 2,
+      "weight_percent": 5,
+      "weighted_points": 2.0,
+      "rationale": "Awkward constructions and repetitive benefits."
+    }
+  },
+  "weighted_article_score": 59.0,
+  "score_status": "expert_judgment_scored_subject_to_editorial_calibration",
+  "executive_summary": {
+    "strengths": "Clearly provides the standard 2.5 × 3.5-inch card size, accurate basic metric conversions and a 5:7 aspect ratio; comparison tables and sleeve/storage discussion support the topic.",
+    "critical_findings": "Incorrect historical chronology; Questionable graded-slab dimensions in table; Card-versus-slab dimensions insufficiently differentiated; Incorrect sleeve description; Potentially misleading authenticity claim.",
+    "recommended_corrections": "Reorder chronologically and distinguish early tobacco issues from earlier baseball cards.; Verify current slab manufacturer dimensions and correct the chart.; Separate trading-card sizes from grading-holder exterior dimensions.; Define penny sleeves as flexible plastic sleeves, and storage boxes separately.; State that size is one inspection factor and is not proof of authenticity.."
+  },
+  "source_verification": {
+    "published_article_text_read": true,
+    "actual_live_page_screenshots_captured": false,
+    "visual_exhibits": "annotated published-text excerpts, NOT captured website screenshots",
+    "external_specification_independently_verified_for_every_claim": false
+  },
+  "caveats": [
+    "Wording, contradictions and structural issues were checked against published article text; some industry claims require authoritative vendor-specific validation.",
+    "A score is an editor-calibrated rating, not a mathematically objective measure and must not be used alone for HR decisions.",
+    "Published attribution Bill Hogg Ryan differs from internally assigned writer Fizza; verify provenance if needed."
+  ]
+}
