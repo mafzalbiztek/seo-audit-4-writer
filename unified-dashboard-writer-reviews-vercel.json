@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/writers/:writer/articles/:article", "destination": "/index.html" },
+    { "source": "/writers/:writer", "destination": "/index.html" },
+    { "source": "/rankings", "destination": "/index.html" },
+    { "source": "/criteria", "destination": "/index.html" },
+    { "source": "/about", "destination": "/index.html" }
+  ]
+}
