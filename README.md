@@ -1,53 +1,81 @@
-# Print247 — Editorial Quality Review
+# Print247 · Balanced Editorial Review (Vercel static app)
 
-Deployable, static, dependency-free Vercel application for four writers and 18 audited Print247 articles.
+A management-facing, read-only review platform for the latest Print247 content assessments of **Hassan, Mohsin, Maryam, and Fizza**.
 
-## Deployment to Vercel
+## What you will see
 
-1. Extract the ZIP file into a folder, preserving all directories.
-2. In Vercel, create a new project and import the folder from a GitHub repository (or deploy from the Vercel CLI).
-3. Framework preset: **Other**. Root directory: folder containing `index.html` and `vercel.json`. Build command: leave empty. Output directory: leave empty (static project).
-4. Deploy. Routes work as `/`, `/rankings`, `/writers/hassan`, `/writers/hassan/articles/1`, `/criteria`, and `/about`.
+- **Home** (`/`): 4-writer summary, current ranking, score metrics, writer strengths and retained issue counts.
+- **Writer rankings** (`/rankings`): side-by-side current score and all eight scoring dimensions.
+- **Writer profiles** (`/writers/hassan`, `/writers/mohsin`, `/writers/maryam`, `/writers/fizza`): personal mini-guide, article scores, strengths, retained issues and direct workbook download.
+- **Individual articles** (`/writers/{writer}/articles/{number}`): article score, eight dimension ratings with rationale, exact current issues, correction recommendations, visual evidence exhibits, and the **52 diagnostic checks** with PASS / ACCEPTABLE / NEEDS IMPROVEMENT / FAIL / N/A / NOT VERIFIED filtering.
+- **Evidence library** (`/evidence`): all 31 current workbooks' annotated excerpt exhibits; filters by writer, finding and search term.
+- **Scoring policy** (`/criteria`): fixed weights, six status categories, proposed passing benchmark, non-penalizing safeguards, and limitations.
+- **Downloads** (`/downloads`): four final Excel workbooks plus the unified current JSON dataset and individual writer JSON exports.
 
-Vercel CLI alternate: run `npx vercel` from this folder and follow the prompts. A Vercel account and internet connection are required for deployment.
+## Source-of-truth data (latest reviewed individual files)
 
-## Preview locally
+| Writer | Score | Articles | Material FAIL | Needs improvement |
+|:--|--:|--:|--:|--:|
+| Hassan | 85.5 | 5 | 1 | 9 |
+| Mohsin | 85.5 | 5 | 4 | 1 |
+| Maryam | 82.8 | 3 | 2 | 3 |
+| Fizza | 82.1 | 5 | 5 | 5 |
 
-Python 3: run `python -m http.server 8000` inside this folder, then visit `http://localhost:8000`. Note that deep-link refreshes on Python's default server are not SPA-rewritten; Vercel handles them via `vercel.json`.
+The site preserves the agreed balanced framework. **Do not import the previous strict audit JSON files into this site** or merge their scores with the current data. The old evaluation scores were superseded.
 
-## Routes and navigation
+The scores are current editorial assessments, **not employment decisions**. Maryam's article sample is smaller (3 vs 5). The 70/100 threshold shown on the methodology page is a **proposed** management benchmark, not a Google SEO requirement or a formal HR policy.
 
-- `/` — management KPIs, writer ranking, cross-writer dimension matrix, priority findings.
-- `/rankings` — ranked comparison, sampling caveats, CSV export.
-- `/writers/{writer}` — writer-level 8-aspect diagnostics, strong points, repeated issue themes, five/three article links.
-- `/writers/{writer}/articles/{number}` — original article score, all eight dimensions, issue-level evidence, 52 source checks, and local correction checklist.
-- `/criteria` — eight original weights, all 52 original question definitions, suggested score threshold (default 70/100), status definitions, scoring formula.
-- `/about` — sources, scope and limitations.
+## Evidence integrity
 
-## Source & scoring integrity
+`assets/evidence/` contains 31 **newly generated annotated excerpt images** based only on current retained workbook issues and one approved non-scoring Pantone safeguard. These are **not actual webpage screenshots**, which could not be captured from the available environment.
 
-- The application does not perform a new audit or independently recompute each dimension from 52 PASS/FAIL results. Original source ratings and provisional scores are shown unchanged.
-- Writer score = mean of available article scores. Hassan 67.8, Mohsin 61.6, Fizza 57.6, Maryam 57.0. Maryam has **3** articles; others have **5**.
-- 168 distinct issue IDs are displayed; a single issue can reference multiple checks without being independently penalized by each.
-- "Strong points" = number of article × scoring dimension ratings 4 or 5 out of 5; does NOT mean 43 uniquely validated positive facts. The checklist PASS count is shown separately.
-- Repeated writer-level themes are heuristic keyword groupings of issue titles/rationales. One issue may appear under more than one theme. They DO NOT modify scores or unique counts.
-- At the eight-dimension level, PASS is defined by suggested display policy rating >=3/5; FAIL <3/5; N/A if truly unrated. It is *not* an official management policy.
-- Suggested score benchmark 70/100 is editable (50-90). It is a proposal requiring management approval, not an original prescribed passing threshold, and it never changes the ranking or saved source scores.
-- Critical issues are flagged for manual release review, not silently reweighted.
-- 40 checks are `not_verified`; 1 check is `na`. Neither is treated as a FAIL.
-- 33 failed checks do not currently link to a distinct recorded issue. The 52-check view explicitly flags this evidence/action-mapping gap; audit source records are not silently modified.
-- 168 evidence PNGs are annotated source excerpt exhibits, NOT live webpage screenshots. No false screenshot claims are made.
-- Writer assignments came from user-provided internal assignments and can differ from public site bylines.
-- Corrections marked as reviewed are stored *only* in the browser localStorage; the source audit never changes. Export the correction progress JSON to share it.
+Each exhibit includes the issue ID, named writer, original quoted excerpt from the current workbook, rationale, and link to the published article. The article itself is the source to inspect when more context is required. Removed findings and old evidence exhibits are not included.
+
+## How to deploy this replacement to your existing Vercel project
+
+1. Unzip this package on your computer. It already contains `index.html`, `app.js`, `styles.css`, `vercel.json`, `data/`, `assets/`, `downloads/`.
+2. Open **GitHub Desktop** and select the repository **`seo-audit-4-writer`** on `main`. Choose **Repository → Show in Explorer**.
+3. In the cloned repository, **remove old `data/`, `assets/` and old audit evidence folders** so that superseded strict data cannot remain publicly accessible. Leave `.git` in place. (Make a backup if you need old history.)
+4. Copy **the contents of this unzipped package** (not its containing folder) into that repository. You should see `index.html` at the repository root.
+5. In GitHub Desktop, inspect the changed files and confirm that `data/approved.js`, `data/approved.json`, `assets/evidence/*.png`, and all four `downloads/*.xlsx` files are present.
+6. Commit as **`Replace strict content audits with finalized balanced review`** and click **Push origin**.
+7. Vercel should automatically create a new deployment from `main`. On Vercel → **Deployments**, check that the source commit matches your new commit and status shows **Ready**. Visit the project domain and test the Writer, Article, Criteria, and Evidence pages.
+
+For a new Vercel project: import the GitHub repository, use framework **Other**, root directory `./`, leave the build command unset, and deploy. `vercel.json` provides rewrites for direct article and writer URLs. This is a zero-dependency static website; there is no npm build step.
+
+## Confidentiality — required before sharing with management
+
+**This application includes named employee evaluations and downloadable workbooks.** It does **not** implement user authentication or authorization. A public GitHub repository, public Vercel deployment, or a “noindex” meta tag is NOT sufficient access control. Protect the repository and enable an appropriate Vercel deployment access-control method before sharing. Do not assume changing the repository to Private automatically restricts the deployed website.
 
 ## Files
 
-- `index.html`, `styles.css`, `app.js` — browser app (no build dependencies).
-- `vercel.json` — deep-link static SPA routing.
-- `data/audits.js`, `data/audits.json` — normalized source data and counters.
-- `data/original/{writer}-{article}.json` — original, unmodified input audit JSON.
-- `assets/evidence/...` — original annotated source-excerpt PNGs from audit packages.
+```text
+index.html
+app.js
+styles.css
+vercel.json
+README.md
+data/
+  approved.js     # browser-ready current dataset
+  approved.json   # readable unified current dataset
+assets/
+  favicon.svg
+  evidence/       # 31 annotated current-workbook exhibits
+downloads/
+  Hassan_Latest_Evaluation.xlsx
+  Mohsin_Latest_Evaluation.xlsx
+  Maryam_Latest_Evaluation.xlsx
+  Fizza_Latest_Evaluation.xlsx
+```
 
-## Updating and access
+## Audit checks performed
 
-This is a static report. To update shared scores, regenerate the source dataset from new versioned audit JSON files and redeploy. This app does **not** include authentication or a writable server. A production deployment containing employee evaluations should be restricted using Vercel's available deployment protection/access controls. Do not distribute a publicly accessible Vercel link without reviewing whether it exposes private staff evaluations.
+- JavaScript syntax verified with Node.js.
+- All **18 article routes** and **four writer routes** exist in the data.
+- **936 diagnostic checks** verified (Hassan 260, Mohsin 260, Fizza 260, Maryam 156).
+- Eight dimensions per article and weighted score consistency verified against the workbook data.
+- Current issues: **12 material FAIL**, **18 NEEDS IMPROVEMENT**, **1 acceptable non-scoring safeguard**.
+- All 31 evidence paths and all four source workbook downloads included.
+- Page-content generation for all principal routes verified using a non-browser JavaScript test.
+
+**Limitation:** A full graphical browser acceptance test was unavailable because the browser environment blocked even local navigation. The app is syntactically and structurally validated but should be smoke-tested on Vercel after deployment.
